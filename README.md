@@ -1,2 +1,2 @@
-# MARKUPMNA-Markup-Based-Segmentation-of-M-A-Agreements
-MARKUPMNA: Markup-Based Segmentation of M&amp;A Agreements
+# MarkupMnA-Markup-Based-Segmentation-of-MnA-Agreements
+MarkupMnA-Markup-Based-Segmentation-of-MnA-Agreements
