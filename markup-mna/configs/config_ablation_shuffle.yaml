@@ -3,9 +3,9 @@
 data:
   data_split: null
 
-  train_contract_dir: ../contracts/tagged/train/
-  eval_contract_dir: ../contracts/tagged/val/
-  test_contract_dir: ../contracts/tagged/test/
+  train_contract_dir: ../contracts/train/
+  eval_contract_dir: ../contracts/val/
+  test_contract_dir: ../contracts/test/
 
   label_list:
     - o
