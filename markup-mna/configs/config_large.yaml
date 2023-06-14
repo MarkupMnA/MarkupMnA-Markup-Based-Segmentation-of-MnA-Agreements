@@ -1,0 +1,84 @@
+---
+# dataset related params
+data:
+  data_split: null
+
+  train_contract_dir: ../contracts/train/
+  eval_contract_dir: ../contracts/val/
+  test_contract_dir: ../contracts/test/
+
+  label_list:
+    - o
+    - b_tn
+    - e_tn
+    - i_tn
+    - s_tn
+    - b_t
+    - e_t
+    - i_t
+    - s_t
+    - b_n
+    - e_n
+    - i_n
+    - s_n
+    - b_st
+    - e_st
+    - i_st
+    - s_st
+    - b_sn
+    - e_sn
+    - i_sn
+    - s_sn
+    - b_sst
+    - e_sst
+    - i_sst
+    - s_sst
+    - b_ssn
+    - e_ssn
+    - i_ssn
+    - s_ssn
+    - b_ssst
+    - e_ssst
+    - i_ssst
+    - s_ssst
+    - b_sssn
+    - e_sssn
+    - i_sssn
+    - s_sssn
+    - b_ssssn
+    - e_ssssn
+    - i_ssssn
+    - s_ssssn
+    - b_sssst
+    - e_sssst
+    - i_sssst
+    - s_sssst
+
+model:
+  use_large_model: true
+  label_only_first_subword: true
+
+  train_batch_size: 4
+  eval_batch_size: 2
+
+  num_epochs: 50
+  learning_rate: 2.0e-5
+
+  # index to ignore in the loss_fn
+  ignore_index: -100
+  max_length: 512
+
+  collateral_dir: ../collateral/model_large/
+  model_savepath: markuplm_large_model_run1.pt
+  early_stop_patience: 10
+
+ablation:
+  run_ablation: false
+  is_shuffle_xpath_exp: false
+  xpath_tag_pad_token: 216
+  xpath_subs_pad_token: 1001
+
+predict:
+  model_path: ../collateral/model_large/ckpt/markuplm_large_model_run1_epoch-3_f1-0.864.pt
+
+...
