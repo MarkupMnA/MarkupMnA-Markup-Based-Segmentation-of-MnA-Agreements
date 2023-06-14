@@ -1,13 +1,13 @@
-# MarkupMnA: Markup-Based Segmentation of M&A Agreements
+# MarkupMnA: Markup-Based Segmentation of MnA Agreements
 
-[MarkupMnA: Markup-Based Segmentation of M&A Agreements]\
+[MarkupMnA: Markup-Based Segmentation of MnA Agreements]\
 Sukrit Rao, Pranab Islam, Rohith Bollineni, Shaan Khosla, Tingyi Fei, Qian Wu, Kyunghyun Cho, Vladimir A Kobzar
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8034852.svg)](https://doi.org/10.5281/zenodo.8034852)
 
 This repo contains:
-- The **MarkupMnA: Markup-Based Segmentation of M&A Agreements Dataset**
-- **Training** and **evaluation** code for the experiments mentioned in MarkupMnA: Markup-Based Segmentation of M&A Agreements.
+- The **MarkupMnA: Markup-Based Segmentation of MnA Agreements Dataset**
+- **Training** and **evaluation** code for the experiments mentioned in MarkupMnA: Markup-Based Segmentation of MnA Agreements.
 
 ## MarkupMnA Dataset
 - The MarkupMnA Dataset in the contracts directory. It is divided into train, val and test 
@@ -23,7 +23,7 @@ subdirs that were used in our experiments.
 The provided code supports:
 - Training the **MarkupLM base** model
 - Training the **MarkupLM large** model
-- Performing the **ablation experiments** mentioned in MarkupMnA: Markup-Based Segmentation of M&A Agreements
+- Performing the **ablation experiments** mentioned in MarkupMnA: Markup-Based Segmentation of MnA Agreements
 - Training on a **subset of k** contracts from the training dataset
 
 #### Training the MarkupLM base model
@@ -48,7 +48,7 @@ python3 inference.py --config=./configs/config.yaml
 this command**
 
 We also provide a script to obtain performance metrics using
-constrained decoding mentioned in MarkupMnA: Markup-Based Segmentation of M&A Agreements. You can run it using 
+constrained decoding mentioned in MarkupMnA: Markup-Based Segmentation of MnA Agreements. You can run it using 
 ```bash
 python3 constrained_inference.py --config=./configs/config.yaml
 ```
