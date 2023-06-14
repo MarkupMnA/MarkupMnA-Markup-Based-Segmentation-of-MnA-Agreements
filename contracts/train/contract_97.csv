@@ -6,16 +6,16 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[2],EXECUTION VERSION,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],dated as of,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],dated as of,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],"NOVEMBER 7, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],"NOVEMBER 7, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,NAVISTAR INTERNATIONAL CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,NAVISTAR INTERNATIONAL CORPORATION,b_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],",",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],",",e_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,TRATON SE,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,TRATON SE,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,DUSK INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,DUSK INC.,s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],dated as of,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],dated as of,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],"NOVEMBER 7, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],"NOVEMBER 7, 2020",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,NAVISTAR INTERNATIONAL CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,NAVISTAR INTERNATIONAL CORPORATION,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],",",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],",",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,TRATON SE,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,TRATON SE,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,DUSK INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,DUSK INC.,e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5],P,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/small,AGE,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[4]/td[1],ARTICLE 1,,,o
@@ -342,7 +342,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[36]/td[3]/i,Specific Performance,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[36]/td[6],79,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],iii,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],This AGREEMENT AND PLAN OF MERGER (this “,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/b[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],"”) dated as of November 7, 2020 among Navistar International Corporation, a Delaware corporation (the “",,,o
@@ -352,7 +352,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],"”), and Dusk Inc., a Delaware corporation and a wholly owned indirect Subsidiary of Parent (“",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/b[4],Merger Subsidiary,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],”).,,,o
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,W I T N E S S E T H :,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,W I T N E S S E T H :,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,W I T N E S S E T H :,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,W I T N E S S E T H :,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4],"WHEREAS, the respective boards of directors of the Company and Merger Subsidiary have approved and deemed it advisable that the respective stockholders of the Company and Merger Subsidiary approve and adopt this Agreement pursuant to which, among other things, Parent or a Subsidiary of Parent, would acquire the Company by means of a merger of Merger Subsidiary with and into the Company on the terms and subject to the conditions set forth in this Agreement;",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[5],"WHEREAS, the management and supervisory boards of Parent have approved and adopted this Agreement; and",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[6],"WHEREAS, concurrently with the execution of this Agreement the Stockholders (as defined in the Support Agreements) have delivered to Parent, duly executed Support Agreements, agreeing to certain matters with respect to the Merger and the other transactions contemplated by this Agreement.",,,o
@@ -764,7 +764,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[17]/td[1]/p,Intervening Event,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[17]/td[3]/p,6.03(b)(ii),,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[18]/td[1]/p,J.P. Morgan,,,o
-/html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[18]/td[3]/p,4.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[18]/td[3]/p,4.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[19]/td[1]/p,Leased Real Property,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[19]/td[3]/p,4.14(c),,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[20]/td[1]/p,Merger,,,o
@@ -786,7 +786,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[28]/td[1]/p,Parent,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[28]/td[3]/p,Preamble,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[29]/td[1]/p,PJT Partners,,,o
-/html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[29]/td[3]/p,4.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[29]/td[3]/p,4.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[30]/td[1]/p,Representatives,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[30]/td[3]/p,6.03(a),,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[31]/td[1]/p,Required Governmental Approvals,,,o
@@ -794,7 +794,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[32]/td[1]/p,Sanctions,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[32]/td[3]/p,4.10(c),,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[33]/td[1]/p,Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[33]/td[1]/p/font,13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[33]/td[1]/p/font,1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[33]/td[3]/p,4.13(b),,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[34]/td[1]/p,Section 721,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/table/tbody/tr[34]/td[3]/p,1.01,,,o
@@ -1108,16 +1108,16 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[9],33,/html/body/document/type/sequence/filename/description/text/center[37]/div/p[9],33,s_n
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[1],"Company Proxy Statement, as supplemented or amended, if applicable, will not contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. The representations and warranties contained in this Section 4.13(a) will not apply to statements or omissions included or incorporated by reference in the Company Proxy Statement based upon information supplied by Parent, Merger Subsidiary or any of their respective representatives or advisors expressly for inclusion therein.",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],(b)    The information supplied by the Company for inclusion or incorporation by reference in the Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[1],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[1],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],or any amendment or supplement thereto shall not at the time the Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[2],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[2],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],"or any amendment or supplement thereto is filed with the SEC contain any untrue statement of a material fact or omit to state any material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading. As used herein, “",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/b,Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/b/font,13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/b/font,1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],” means the Rule,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[3],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[3],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],Transaction Statement on Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[4],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/font[4],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],to be filed with the SEC in connection with this Agreement.,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[3],Section 4.14.,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[3],Section 4.14,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/i,Properties.,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/i,Properties,s_sst
@@ -1564,25 +1564,25 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/i[1],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/i[2],SEC Matters,/html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/i[2],SEC Matters,s_sst
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3],. (a) Each of the Company and Parent and their respective counsel shall be given a reasonable opportunity to review and comment on the Company Proxy Statement and the Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/font[1],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/font[1],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3],"each time before any such document is filed with the SEC, and shall give reasonable and good faith consideration to any comments made by the other party. Each of the Company and Parent shall promptly provide copies, consult with each other and prepare written responses with respect to any written comments received from the SEC with respect to the Company Proxy Statement or the Schedule",,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/font[2],"13E-3,",,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3],"as the case may be, and advise one another of any oral comments received from the SEC. Each of the Company and Parent shall use its reasonable best efforts to ensure that the Company Proxy Statement and the Schedule",,,o
-/html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/font[3],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[70]/div/p[3]/font[3],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[3],"comply in all material respects with the rules and regulations promulgated by the SEC under the 1933 Act and the 1934 Act, as the case may be.",,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[4],(b)    Parent and the Company shall jointly (i) prepare and file the Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[70]/div/p[4]/font[1],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[70]/div/p[4]/font[1],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[4],"with the SEC concurrently with the Company Proxy Statement, (ii) cause the Schedule",,,o
-/html/body/document/type/sequence/filename/description/text/center[70]/div/p[4]/font[2],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[70]/div/p[4]/font[2],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[4],"and any amendments or supplements thereto, when filed, to comply with all legal requirements applicable thereto, (iii) use their",,,o
 /html/body/document/type/sequence/filename/description/text/center[70]/div/p[6],66,/html/body/document/type/sequence/filename/description/text/center[70]/div/p[6],66,s_n
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[1],respective reasonable best efforts to have the Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[71]/div/p[1]/font[1],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[71]/div/p[1]/font[1],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[1],cleared by the SEC as promptly as practicable and (iv) mail the Schedule,,,o
-/html/body/document/type/sequence/filename/description/text/center[71]/div/p[1]/font[2],13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[71]/div/p[1]/font[2],1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[1],to the stockholders of the Company as promptly as practicable after clearance by the SEC.,,,o
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[2],"(c)    If, at any time prior to the Effective Time, any information relating to the Company or Parent, or any of their respective Affiliates, officers or directors should be discovered by the Company or Parent that should be set forth in an amendment or supplement to the Company Proxy Statement or the Schedule",,,o
-/html/body/document/type/sequence/filename/description/text/center[71]/div/p[2]/font,13E-3,,,o
+/html/body/document/type/sequence/filename/description/text/center[71]/div/p[2]/font,1.30E-02,,,o
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[2],"so that such documents would not include any misstatement of a material fact or omit to state any material fact necessary to make the statements therein, in light of the circumstances under which they were made, not misleading, the party hereto that discovers such information shall promptly notify the other parties hereto and an appropriate amendment or supplement describing such information shall be promptly filed with the SEC and, to the extent required by law, disseminated to the stockholders of the Company.",,,o
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[3],Section 8.03,/html/body/document/type/sequence/filename/description/text/center[71]/div/p[3],Section 8.03,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[71]/div/p[3]/i,. Public Announcements.,/html/body/document/type/sequence/filename/description/text/center[71]/div/p[3]/i,Public Announcement,s_sst
@@ -1733,7 +1733,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[25]/font,558-4000,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[26],Facsimile No.: (212),,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[26]/font,291-9004,,,o
-/html/body/document/type/sequence/filename/description/text/center[77]/div/p[27],(212),,,o
+/html/body/document/type/sequence/filename/description/text/center[77]/div/p[27],-212,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[27]/font,291-9386,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[28]/font,E-mail:,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[28],aquilaf@sullcrom.com,,,o
@@ -1877,10 +1877,10 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[85]/div/p[3]/i,Signature Page to Merger Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[85]/div/p[3],],,,o
 /html/body/document/type/sequence/filename/description/text/center[86]/div/p/b,Exhibit A to Merger Agreement,/html/body/document/type/sequence/filename/description/text/center[86]/div/p/b,Exhibit A to Merger Agreement,s_tn
-/html/body/document/type/sequence/filename/description/text/center[87]/div/p[1]/b,SECOND AMENDED AND RESTATED,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[1]/b,SECOND AMENDED AND RESTATED,s_t
-/html/body/document/type/sequence/filename/description/text/center[87]/div/p[2]/b,CERTIFICATE OF INCORPORATION,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[2]/b,CERTIFICATE OF INCORPORATION,s_t
-/html/body/document/type/sequence/filename/description/text/center[87]/div/p[3]/b,OF,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[3]/b,OF,s_t
-/html/body/document/type/sequence/filename/description/text/center[87]/div/p[4]/b,NAVISTAR INTERNATIONAL CORPORATION,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[4]/b,NAVISTAR INTERNATIONAL CORPORATION,s_t
+/html/body/document/type/sequence/filename/description/text/center[87]/div/p[1]/b,SECOND AMENDED AND RESTATED,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[1]/b,SECOND AMENDED AND RESTATED,b_t
+/html/body/document/type/sequence/filename/description/text/center[87]/div/p[2]/b,CERTIFICATE OF INCORPORATION,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[2]/b,CERTIFICATE OF INCORPORATION,i_t
+/html/body/document/type/sequence/filename/description/text/center[87]/div/p[3]/b,OF,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[3]/b,OF,i_t
+/html/body/document/type/sequence/filename/description/text/center[87]/div/p[4]/b,NAVISTAR INTERNATIONAL CORPORATION,/html/body/document/type/sequence/filename/description/text/center[87]/div/p[4]/b,NAVISTAR INTERNATIONAL CORPORATION,e_t
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5],FIRST: The name of the corporation is Navistar International Corporation (the “,,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/b,Corporation,,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5],”).,,,o
@@ -1910,7 +1910,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[4],(5)    Persons who are not included as indemnitees under paragraph 1 of this ARTICLE EIGHTH but are employees of the Corporation or any subsidiary may be indemnified to the extent authorized at any time or from time to time by the Board of Directors.,,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[5],"NINTH: The Corporation reserves the right to amend this Certificate of Incorporation in any manner permitted by Delaware Law and all rights and powers conferred herein on stockholders, directors and officers, if any, are subject to this reserved power.",,,o
 /html/body/document/type/sequence/filename/description/text/center[90]/div/p[1],"TENTH: The Preference Stock may be issued from time to time in one or more series of any number of shares, provided that the aggregate number of shares issued and not canceled of any and all such series shall not exceed the total number of shares of Preference Stock hereinabove authorized, and with distinctive serial designations, all as shall hereafter be stated and expressed in the resolution or resolutions providing for the issue of such Preference Stock from time to time adopted by the Board of Directors pursuant to authority so to do which is hereby vested in the Board of Directors. Each series of Preference Stock (i) may have such voting powers, full or limited, or may be without voting powers; (ii) may be subject to redemption at such time or times and at such prices; (iii) may be entitled to receive dividends (which may be cumulative or noncumulative) at such rate or rates, on such conditions, and at such times, and payable in preference to, or in such relation to, the dividends payable on any other class or classes or series of stock; (iv) may have such rights upon the dissolution of, or upon any distribution of the assets of, the Corporation; (v) may be made convertible into, or exchangeable for, shares of any other class or classes or of any other series of the same or any other class or classes of stock of the Corporation, at such price or prices or at such rates of exchange, and with such adjustments; (vi) may be entitled to the benefit of a sinking fund to be applied to the purchase or redemption of shares of such series in such amount or amounts; (vii) may be entitled to the benefit of conditions and restrictions upon the creation of indebtedness of the Corporation or any subsidiary, upon the issue of any additional stock (including additional shares of such series or of any other series) and upon the payment of dividends or the making of other distributions on, and the purchase, redemption or other acquisition by the Corporation or any subsidiary of any outstanding stock of the Corporation; and (viii) may have such other relative, participating, optional or other special rights, qualifications, limitations or restrictions thereof; all as shall be stated in said resolution or resolutions providing for the issue of such Preference Stock. Shares of any series of Preference Stock which have been redeemed (whether through the operation of a sinking fund or otherwise) or which, if convertible or exchangeable, have been converted into or exchanged for shares of stock of any other class or classes shall have the status of authorized and unissued shares of Preference Stock of the same series and may be reissued as a part of the series of which they were originally a part or may be reclassified and reissued as part of a new series of Preference Stock to be created by resolution or resolutions by the Board of Directors or as part of any other series of Preference Stock, all subject to the conditions or restrictions on issuance set forth in the resolution or resolutions adopted by the Board of Directors providing for the issue of any series of Preference Stock.",,,o
-/html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],(1)    ,/html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],(1),s_sn
+/html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],(1)    ,/html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],-1,s_sn
 /html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],Series B Stock,/html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],Series B Stock,s_st
 /html/body/document/type/sequence/filename/description/text/center[90]/div/p[2],". The designated powers, preferences and relative participating, optional or other special rights and the qualifications, limitations or restrictions thereof, of one (1) share of a series of Preference Stock are as follows:",,,o
 /html/body/document/type/sequence/filename/description/text/center[91]/div/p[1],"(a)     Designation. The designation of this series of Preference Stock shall be “Nonconvertible Junior Preference Stock, Series B (With Par Value of $1.00)” (referred to herein as the “",/html/body/document/type/sequence/filename/description/text/center[91]/div/p[1],(a),s_ssn

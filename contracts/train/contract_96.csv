@@ -5,14 +5,14 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EXHIBIT 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/p[3]/font/b,Execution Version,,,o
-/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/p[7]/b,among,/html/body/document/type/sequence/filename/description/text/p[7]/b,among,s_t
-/html/body/document/type/sequence/filename/description/text/p[9]/b,"THE ALLSTATE CORPORATION,",/html/body/document/type/sequence/filename/description/text/p[9]/b,"THE ALLSTATE CORPORATION,",s_t
-/html/body/document/type/sequence/filename/description/text/p[11]/b,BLUEBIRD ACQUISITION CORP.,/html/body/document/type/sequence/filename/description/text/p[11]/b,BLUEBIRD ACQUISITION CORP.,s_t
-/html/body/document/type/sequence/filename/description/text/p[13]/b,and,/html/body/document/type/sequence/filename/description/text/p[13]/b,and,s_t
-/html/body/document/type/sequence/filename/description/text/p[15]/b,NATIONAL GENERAL HOLDINGS CORP.,/html/body/document/type/sequence/filename/description/text/p[15]/b,NATIONAL GENERAL HOLDINGS CORP.,s_t
-/html/body/document/type/sequence/filename/description/text/p[17]/b,"Dated as of July 7, 2020",/html/body/document/type/sequence/filename/description/text/p[17]/b,"Dated as of July 7, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/p[21]/b/u,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/p[21]/b/u,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/p[7]/b,among,/html/body/document/type/sequence/filename/description/text/p[7]/b,among,i_t
+/html/body/document/type/sequence/filename/description/text/p[9]/b,"THE ALLSTATE CORPORATION,",/html/body/document/type/sequence/filename/description/text/p[9]/b,"THE ALLSTATE CORPORATION,",i_t
+/html/body/document/type/sequence/filename/description/text/p[11]/b,BLUEBIRD ACQUISITION CORP.,/html/body/document/type/sequence/filename/description/text/p[11]/b,BLUEBIRD ACQUISITION CORP.,i_t
+/html/body/document/type/sequence/filename/description/text/p[13]/b,and,/html/body/document/type/sequence/filename/description/text/p[13]/b,and,i_t
+/html/body/document/type/sequence/filename/description/text/p[15]/b,NATIONAL GENERAL HOLDINGS CORP.,/html/body/document/type/sequence/filename/description/text/p[15]/b,NATIONAL GENERAL HOLDINGS CORP.,i_t
+/html/body/document/type/sequence/filename/description/text/p[17]/b,"Dated as of July 7, 2020",/html/body/document/type/sequence/filename/description/text/p[17]/b,"Dated as of July 7, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/p[21]/b/u,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/p[21]/b/u,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[1]/td[1]/b,ARTICLE I,,,o
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[1]/td[1],THE MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[1]/td[2],2,,,o
@@ -304,7 +304,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/table[3]/tbody/tr[49]/td[3],Counterparts; Execution,,,o
 /html/body/document/type/sequence/filename/description/text/table[3]/tbody/tr[49]/td[4],79,,,o
 /html/body/document/type/sequence/filename/description/text/div[7]/p,iii,/html/body/document/type/sequence/filename/description/text/div[7]/p,iii,s_n
-/html/body/document/type/sequence/filename/description/text/p[32]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[32]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/p[32]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[32]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/p[34],"This AGREEMENT AND PLAN OF MERGER, dated as of July 7, 2020 (as amended in accordance with the terms hereof, this “",,,o
 /html/body/document/type/sequence/filename/description/text/p[34]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/p[34],"”), is by and among The Allstate Corporation, a Delaware corporation (“",,,o
@@ -316,7 +316,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/p[34],”). All capitalized terms used in this Agreement shall have the meanings ascribed to such terms in,,,o
 /html/body/document/type/sequence/filename/description/text/p[34]/u[5],Section 8.3,,,o
 /html/body/document/type/sequence/filename/description/text/p[34],or as defined elsewhere in this Agreement.,,,o
-/html/body/document/type/sequence/filename/description/text/p[36]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/p[36]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/p[36]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/p[36]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/p[38],"WHEREAS, the parties intend that Merger Sub will be merged with and into the Company, with the Company as the Surviving Corporation (the “",,,o
 /html/body/document/type/sequence/filename/description/text/p[38]/u[1],Merger,,,o
 /html/body/document/type/sequence/filename/description/text/p[38],"”), pursuant to which, in addition to the payment of the Special Dividend immediately prior to the Effective Time, each issued and outstanding share of Company Common Stock (the “",,,o

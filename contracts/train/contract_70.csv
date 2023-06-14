@@ -6,16 +6,16 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b/u,Execution Version,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],By and Among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],By and Among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,CREATION TECHNOLOGIES INTERNATIONAL INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,CREATION TECHNOLOGIES INTERNATIONAL INC.,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"CTI ACQUISITION CORP.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"CTI ACQUISITION CORP.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"CREATION TECHNOLOGIES INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"CREATION TECHNOLOGIES INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,IEC ELECTRONICS CORP.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,IEC ELECTRONICS CORP.,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],dated as of,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],dated as of,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"August 12, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"August 12, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],By and Among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],By and Among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,CREATION TECHNOLOGIES INTERNATIONAL INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,CREATION TECHNOLOGIES INTERNATIONAL INC.,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"CTI ACQUISITION CORP.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"CTI ACQUISITION CORP.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"CREATION TECHNOLOGIES INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"CREATION TECHNOLOGIES INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,IEC ELECTRONICS CORP.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,IEC ELECTRONICS CORP.,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],dated as of,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],dated as of,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"August 12, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"August 12, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[1]/p,ARTICLE I. The Offer,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[4],2,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[4]/td[1]/p,Section 1.01,,,o
@@ -309,7 +309,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[39]/td[3],Guarantee,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[39]/td[6],91,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],iv,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],iv,s_n
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],This Agreement and Plan of Merger (this “,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/b[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"”), is entered into as of August 12, 2021, by and among IEC Electronics Corp., a Delaware corporation (the “",,,o
@@ -336,7 +336,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/b[14]/u,Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/b[16]/u,9.01,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],hereof.,,,o
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],"WHEREAS, Parent desires to acquire the Company on the terms and subject to the conditions set forth in this Agreement;",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[5],"WHEREAS, the board of directors of the Company (the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[5]/b[1],Company Board,,,o
@@ -780,7 +780,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[19]/div/p[5]/b[12]/u,4.04,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/p[5],",",,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/p[5]/b[13]/u,Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[19]/div/p[5]/b[15]/u,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[19]/div/p[5]/b[15]/u,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/p[5],and,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/p[5]/b[16]/u,Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[19]/div/p[5]/b[18]/u,4.19,,,o
@@ -1152,7 +1152,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[31]/div/p[5],"”), which would reasonably be expected to have, individually or in the aggregate, a Company Material Adverse Effect. To the Knowledge of the Company, there are no SEC inquiries or investigations, other governmental inquiries or investigations, or internal investigations pending or, to the Knowledge of the Company, threatened, in each case regarding any accounting practices of the Company or any of its Subsidiaries or any malfeasance by any officer or director of the Company.",,,o
 /html/body/document/type/sequence/filename/description/text/center[31]/div/p[7],26,/html/body/document/type/sequence/filename/description/text/center[31]/div/p[7],26,s_n
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[1],Section,b_ssn
-/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[3],4.10,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[3],4.1,e_ssn
+/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[3],4.1,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[3],4.1,e_ssn
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[4]/u,Brokers,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[4]/u,Brokers,b_sst
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[5]/u,’,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[5]/u,’,i_sst
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[6]/u,and Finders,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[6]/u,and Finders,i_sst
@@ -1162,7 +1162,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[9],Company Financial Advisor,,,o
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1],”) pursuant to an engagement letter listed in,,,o
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[10]/u,Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[12]/u,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[32]/div/p[1]/b[12]/u,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[1],"of the Company Disclosure Letter, a correct and complete copy of which has been provided to Parent, neither the Company nor any of its Subsidiaries has incurred, nor will it incur, directly or indirectly, any liability for investment banker, brokerage, or finders’ fees or agents’ commissions, or any similar charges in connection with this Agreement or the Offer, the Merger or any other transaction contemplated by this Agreement.",,,o
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[2]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[2]/b[1],Section,b_ssn
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[2]/b[3],4.11,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[2]/b[3],4.11,e_ssn
@@ -1365,7 +1365,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[40]/div/p[10]/u,No Breach,/html/body/document/type/sequence/filename/description/text/center[40]/div/p[10]/u,No Breach,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[40]/div/p[10],". (i) All the Company Material Contracts are valid, legal, and binding on the Company or its applicable Subsidiary, enforceable against it in accordance with its terms, and are in full force and effect subject to the Enforceability Exceptions and except as would not be material to the Company and its Subsidiaries, taken as a whole; (ii) neither the Company nor any of its Subsidiaries nor, to the Knowledge of the Company, any third party has violated any provision of, or failed to perform any obligation required under the provisions of, any Company Material Contract or any Government Contracts required to be set forth in",,,o
 /html/body/document/type/sequence/filename/description/text/center[40]/div/p[10]/b[1]/u,Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[40]/div/p[10]/b[3]/u,4.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[40]/div/p[10]/b[3]/u,4.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[40]/div/p[10],"of the Company Disclosure Letter except for any violation that would not reasonably be expected to have, individually or in the aggregate, a",,,o
 /html/body/document/type/sequence/filename/description/text/center[40]/div/p[12],35,/html/body/document/type/sequence/filename/description/text/center[40]/div/p[12],35,s_n
 /html/body/document/type/sequence/filename/description/text/center[41]/div/p[1],Company Material Adverse Effect; (iii) assuming the accuracy of,,,o
@@ -1397,7 +1397,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[42]/div/p[2]/b[4]/u,Fairness Opinion,/html/body/document/type/sequence/filename/description/text/center[42]/div/p[2]/b[4]/u,Fairness Opinion,s_sst
 /html/body/document/type/sequence/filename/description/text/center[42]/div/p[2],". The Company has received the opinion of the Company Financial Advisor (and, if it is in writing, has provided a copy of such opinion to Parent) to the effect that, as of the date of this Agreement and based upon and subject to the qualifications and assumptions set forth therein, the consideration to be received in the Offer and the Merger by the holders of shares of Company Common Stock (other than Parent and Merger Sub) is fair, from a financial point of view, to such holders of shares of Company Common Stock, and, as of the date of this Agreement, such opinion has not been withdrawn, revoked, or modified.",,,o
 /html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[1],Section,b_ssn
-/html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[3],4.20,/html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[3],4.2,e_ssn
+/html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[3],4.2,/html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[3],4.2,e_ssn
 /html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[4]/u,Government Contracts,/html/body/document/type/sequence/filename/description/text/center[42]/div/p[3]/b[4]/u,Government Contracts,s_sst
 /html/body/document/type/sequence/filename/description/text/center[42]/div/p[3],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[42]/div/p[4],(a),/html/body/document/type/sequence/filename/description/text/center[42]/div/p[4],(a),s_sssn
@@ -1543,7 +1543,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[49]/div/p[1]/b[12],Solvent,,,o
 /html/body/document/type/sequence/filename/description/text/center[49]/div/p[1],"” means, with respect to any Person, that, as of any date of determination, (a) the fair value of the assets of such Person and its Subsidiaries on a consolidated basis, at a fair valuation, exceeds the liabilities (including contingent liabilities) of such Person and its subsidiaries on a consolidated basis, (b) such Person and its Subsidiaries on a consolidated basis will be able to pay their debts and liabilities (including contingent liabilities) as such debts and liabilities become absolute and matured, and (c) such Person and its Subsidiaries on a consolidated basis will not have an unreasonably small amount of capital with which to conduct the businesses in which they are engaged as such businesses are now conducted and are proposed to be conducted following the Closing Date.",,,o
 /html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[1],Section,b_ssn
-/html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[3],5.10 ,/html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[3],5.1,e_ssn
+/html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[3],5.1,/html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[3],5.1,e_ssn
 /html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[3],Independent Investigation; No Reliance; Limitation of Warranties,/html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[3],Independent Investigation; No Reliance; Limitation of Warranties,s_sst
 /html/body/document/type/sequence/filename/description/text/center[49]/div/p[2],". Each of Parent and Merger Sub has conducted its own independent review and analysis of the business, operations, assets, Contracts, Intellectual Property, real estate, technology, liabilities, results of operations, financial condition and prospects of the Company and its Subsidiaries, and each of them acknowledges that it and its Representatives has received access to certain books and records, facilities, equipment, Contracts and other assets of the Company and its Subsidiaries that it and its Representatives have requested to review and that it and its Representatives have had the opportunity to meet with the management of the Company and to discuss the business and assets of the Company and its Subsidiaries. Parent and Merger Sub acknowledge and agree, (i) except for the Express Representations set forth in",,,o
 /html/body/document/type/sequence/filename/description/text/center[49]/div/p[2]/b[4]/u,ARTICLE IV,,,o
@@ -1998,7 +1998,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[3]/b[16]/u,6.08,,,o
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[3],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[1],Section,b_ssn
-/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[3],6.10,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[3],6.1,e_ssn
+/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[3],6.1,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[3],6.1,e_ssn
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[4]/u,Anti-Takeover Statutes,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[4]/u,Anti-Takeover Statutes,s_sst
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[4],". If any “control share acquisition,” “fair price,” “moratorium,” or other anti-takeover Law becomes or is deemed to be applicable to the Company, Parent, Merger Sub, the Offer, the acquisition of shares of Company Common Stock pursuant to the Offer, the Merger or any other transaction contemplated by this Agreement, then each of the Company and the Company Board shall use reasonable best efforts to grant such approvals and take such actions as are necessary so that the transactions contemplated hereby may be consummated as promptly as practicable on the terms contemplated hereby and otherwise act to render such anti-takeover Law inapplicable to the foregoing.",,,o
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[5]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[5]/b[1],Section,b_ssn
@@ -2416,7 +2416,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[7]/b[1],Company Financial Advisor,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[7],” has the meaning set forth in,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[7]/b[2]/u,Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[77]/div/p[7]/b[4]/u,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[77]/div/p[7]/b[4]/u,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[7],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[8],“,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[8]/b,Company Intervening Event,,,o
@@ -3155,7 +3155,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[2]/b[10]/u,9.09,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[2],and the other Lender Protective Provisions.,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[1],Section,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[1],Section,b_ssn
-/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[3],9.10,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[3],9.1,e_ssn
+/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[3],9.1,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[3],9.1,e_ssn
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[4]/u,Severability,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/b[4]/u,Severability,s_sst
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[3],". If any term or provision of this Agreement is invalid, illegal or unenforceable in any jurisdiction, such invalidity, illegality or unenforceability shall not affect any other term or provision of this Agreement or invalidate or render unenforceable such term or provision in any other jurisdiction. Upon such determination that any term or other provision is invalid, illegal, or unenforceable, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner in order that the transactions contemplated hereby be consummated as originally contemplated to the greatest extent possible.",,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[5],87,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[5],87,s_n
@@ -3365,7 +3365,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[9]/b[25]/u,4.05(a),,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[9],",",,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[9]/b[26]/u,Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[100]/div/p[9]/b[28]/u,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[100]/div/p[9]/b[28]/u,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[9],and,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[9]/b[29]/u,Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[9]/b[31]/u,4.19,,,o
@@ -3400,7 +3400,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[101]/div/p[3]/b[18]/u,4.05(a),,,o
 /html/body/document/type/sequence/filename/description/text/center[101]/div/p[3],",",,,o
 /html/body/document/type/sequence/filename/description/text/center[101]/div/p[3]/b[19]/u,Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[101]/div/p[3]/b[21]/u,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[101]/div/p[3]/b[21]/u,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[101]/div/p[3],", and",,,o
 /html/body/document/type/sequence/filename/description/text/center[101]/div/p[3]/b[22]/u,Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[101]/div/p[3]/b[24]/u,4.19,,,o

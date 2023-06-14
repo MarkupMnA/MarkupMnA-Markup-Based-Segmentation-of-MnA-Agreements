@@ -5,16 +5,16 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EXHIBIT 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/p[3]/font/b/i,Execution Version,,,o
-/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/p[7]/b,by and among,/html/body/document/type/sequence/filename/description/text/p[7]/b,by and among,s_t
-/html/body/document/type/sequence/filename/description/text/p[9]/b,"WADDELL & REED FINANCIAL, INC.,",/html/body/document/type/sequence/filename/description/text/p[9]/b,"WADDELL & REED FINANCIAL, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/p[11]/b,"MACQUARIE MANAGEMENT HOLDINGS, INC.,",/html/body/document/type/sequence/filename/description/text/p[11]/b,"MACQUARIE MANAGEMENT HOLDINGS, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/p[13]/b,"MERRY MERGER SUB, INC.,",/html/body/document/type/sequence/filename/description/text/p[13]/b,"MERRY MERGER SUB, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/p[15]/b,and,/html/body/document/type/sequence/filename/description/text/p[15]/b,and,s_t
-/html/body/document/type/sequence/filename/description/text/p[17]/b,(solely for purposes of Section 9.15),/html/body/document/type/sequence/filename/description/text/p[17]/b,(solely for purposes of Section 9.15),s_t
-/html/body/document/type/sequence/filename/description/text/p[19]/b,MACQUARIE FINANCIAL HOLDINGS PTY LTD,/html/body/document/type/sequence/filename/description/text/p[19]/b,MACQUARIE FINANCIAL HOLDINGS PTY LTD,s_t
-/html/body/document/type/sequence/filename/description/text/p[21]/b,"dated as of December 2, 2020",/html/body/document/type/sequence/filename/description/text/p[21]/b,"dated as of December 2, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/p[25]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/p[25]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[5]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/p[7]/b,by and among,/html/body/document/type/sequence/filename/description/text/p[7]/b,by and among,i_t
+/html/body/document/type/sequence/filename/description/text/p[9]/b,"WADDELL & REED FINANCIAL, INC.,",/html/body/document/type/sequence/filename/description/text/p[9]/b,"WADDELL & REED FINANCIAL, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/p[11]/b,"MACQUARIE MANAGEMENT HOLDINGS, INC.,",/html/body/document/type/sequence/filename/description/text/p[11]/b,"MACQUARIE MANAGEMENT HOLDINGS, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/p[13]/b,"MERRY MERGER SUB, INC.,",/html/body/document/type/sequence/filename/description/text/p[13]/b,"MERRY MERGER SUB, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/p[15]/b,and,/html/body/document/type/sequence/filename/description/text/p[15]/b,and,i_t
+/html/body/document/type/sequence/filename/description/text/p[17]/b,(solely for purposes of Section 9.15),/html/body/document/type/sequence/filename/description/text/p[17]/b,(solely for purposes of Section 9.15),i_t
+/html/body/document/type/sequence/filename/description/text/p[19]/b,MACQUARIE FINANCIAL HOLDINGS PTY LTD,/html/body/document/type/sequence/filename/description/text/p[19]/b,MACQUARIE FINANCIAL HOLDINGS PTY LTD,i_t
+/html/body/document/type/sequence/filename/description/text/p[21]/b,"dated as of December 2, 2020",/html/body/document/type/sequence/filename/description/text/p[21]/b,"dated as of December 2, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/p[25]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/p[25]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[1]/td[2]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[3]/td[1],Article I Definitions,,,o
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[3]/td[2],1,,,o
@@ -360,7 +360,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/table[4]/tbody/tr/td[1],EXHIBIT A,,,o
 /html/body/document/type/sequence/filename/description/text/table[4]/tbody/tr/td[3],A-1,,,o
 /html/body/document/type/sequence/filename/description/text/div[7]/p,iii,/html/body/document/type/sequence/filename/description/text/div[7]/p,iii,s_n
-/html/body/document/type/sequence/filename/description/text/p[37]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[37]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/p[37]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[37]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/p[39],"This AGREEMENT AND PLAN OF MERGER, dated as of December 2, 2020 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/p[39]/b[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/p[39],"”), is entered into by and among Macquarie Management Holdings, Inc., a Delaware corporation (“",,,o

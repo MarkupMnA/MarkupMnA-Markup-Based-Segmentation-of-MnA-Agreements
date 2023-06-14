@@ -6,14 +6,14 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[2],EXECUTION VERSION,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"VENTAS, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"VENTAS, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],CADENCE MERGER SUB LLC,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],CADENCE MERGER SUB LLC,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],NEW SENIOR INVESTMENT GROUP INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],NEW SENIOR INVESTMENT GROUP INC.,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of June 28, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of June 28, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"VENTAS, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"VENTAS, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],CADENCE MERGER SUB LLC,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],CADENCE MERGER SUB LLC,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],NEW SENIOR INVESTMENT GROUP INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],NEW SENIOR INVESTMENT GROUP INC.,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of June 28, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of June 28, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE I MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],1,,,o
@@ -188,7 +188,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[32]/td[3],Terms Defined Elsewhere,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[32]/td[6],86,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[2],-iii-,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[2],-iii-,s_n
-/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],"This AGREEMENT AND PLAN OF MERGER, dated as of June 28, 2021 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],"”), is by and among VENTAS, INC., a Delaware corporation (“",,,o

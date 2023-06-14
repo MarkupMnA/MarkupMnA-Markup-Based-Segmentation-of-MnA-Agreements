@@ -5,17 +5,17 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"PIONEER NATURAL RESOURCES COMPANY,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"PIONEER NATURAL RESOURCES COMPANY,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"PEARL FIRST MERGER SUB INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"PEARL FIRST MERGER SUB INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"PEARL SECOND MERGER SUB LLC,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"PEARL SECOND MERGER SUB LLC,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"PEARL OPCO MERGER SUB LLC,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"PEARL OPCO MERGER SUB LLC,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,"PARSLEY ENERGY, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,"PARSLEY ENERGY, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"PARSLEY ENERGY, LLC",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"PARSLEY ENERGY, LLC",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],"Dated as of October 20, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],"Dated as of October 20, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"PIONEER NATURAL RESOURCES COMPANY,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"PIONEER NATURAL RESOURCES COMPANY,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"PEARL FIRST MERGER SUB INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"PEARL FIRST MERGER SUB INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"PEARL SECOND MERGER SUB LLC,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"PEARL SECOND MERGER SUB LLC,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"PEARL OPCO MERGER SUB LLC,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"PEARL OPCO MERGER SUB LLC,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,"PARSLEY ENERGY, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,"PARSLEY ENERGY, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"PARSLEY ENERGY, LLC",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"PARSLEY ENERGY, LLC",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],"Dated as of October 20, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],"Dated as of October 20, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE I THE MERGERS,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],3,,,o
@@ -117,7 +117,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[41]/td[3],Properties,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[41]/td[6],34,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/p[4],i,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[4],i,s_n
-/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[3]/td[1]/p,Section 3.19,,,o
@@ -237,7 +237,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[43]/td[3],Derivative Transactions,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[43]/td[6],61,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[5],ii,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[5],ii,s_n
-/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[3]/td[1]/p,Section 4.27,,,o
@@ -345,7 +345,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[43]/td[3],Extension of Time; Waiver,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[43]/td[6],95,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[5],iii,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[5],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table[1]/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table[1]/tbody/tr[4]/td[1]/p,ARTICLE VIII GENERAL PROVISIONS,,,o
@@ -410,7 +410,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table[2]/tbody/tr[5]/td[1],Exhibit D,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table[2]/tbody/tr[5]/td[3],Form of Parent Officer’s Certificate,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[6],iv,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[6],iv,s_n
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/table/tbody/tr[2]/td[1]/p,Definition,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/table/tbody/tr[2]/td[3]/p,Location,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/table/tbody/tr[3]/td[1],409A Authorities,,,o
@@ -494,7 +494,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[6]/div/table/tbody/tr[42]/td[1],Company Performance Awards,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/table/tbody/tr[42]/td[3],2.3(a)(i),,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],i,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],i,s_n
-/html/body/document/type/sequence/filename/description/text/center[7]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[7]/div/p[1]/b,INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[7]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[7]/div/p[1]/b,INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[7]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[7]/div/table/tbody/tr[2]/td[1]/p,Definition,,,o
 /html/body/document/type/sequence/filename/description/text/center[7]/div/table/tbody/tr[2]/td[3]/p,Location,,,o
@@ -583,7 +583,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[7]/div/table/tbody/tr[44]/td[1],Excluded Opco LLC Units,,,o
 /html/body/document/type/sequence/filename/description/text/center[7]/div/table/tbody/tr[44]/td[3],2.2(a)(ii),,,o
 /html/body/document/type/sequence/filename/description/text/center[7]/div/p[5],ii,/html/body/document/type/sequence/filename/description/text/center[7]/div/p[5],ii,s_n
-/html/body/document/type/sequence/filename/description/text/center[8]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[8]/div/p[1]/b,INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[8]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[8]/div/p[1]/b,INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[8]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[2]/td[1]/p,Definition,,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[2]/td[3]/p,Location,,,o
@@ -673,7 +673,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[44]/td[1],Opco Merger Consideration,,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[44]/td[3],2.2(a)(i),,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/p[5],iii,/html/body/document/type/sequence/filename/description/text/center[8]/div/p[5],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/table/tbody/tr[2]/td[1]/p,Definition,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/table/tbody/tr[2]/td[3]/p,Location,,,o
@@ -762,7 +762,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[9]/div/table/tbody/tr[44]/td[1],Permits,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/table/tbody/tr[44]/td[3],3.11,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[5],iv,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[5],iv,s_n
-/html/body/document/type/sequence/filename/description/text/center[10]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[10]/div/p[1]/b,INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[10]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[10]/div/p[1]/b,INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[10]/div/p[2]/b,(Continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[10]/div/table/tbody/tr[2]/td[1]/p,Definition,,,o
 /html/body/document/type/sequence/filename/description/text/center[10]/div/table/tbody/tr[2]/td[3]/p,Location,,,o
@@ -853,7 +853,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[11]/div/p[2],” and collectively as the “,,,o
 /html/body/document/type/sequence/filename/description/text/center[11]/div/p[2]/u[9],Parties,,,o
 /html/body/document/type/sequence/filename/description/text/center[11]/div/p[2],”.,,,o
-/html/body/document/type/sequence/filename/description/text/center[11]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[11]/div/p[3]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[11]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[11]/div/p[3]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[11]/div/p[4],"WHEREAS, the Parties intend to effect (i) at the Effective Time, (A) the merger (the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[11]/div/p[4]/u[1],First Company Merger,,,o
 /html/body/document/type/sequence/filename/description/text/center[11]/div/p[4],"”) of Merger Sub Inc. with and into the Company, with the Company continuing as the surviving entity (the “",,,o
@@ -3740,7 +3740,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[120]/div/p[2],"(collectively, the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[120]/div/p[2]/b[4],Parties,,,o
 /html/body/document/type/sequence/filename/description/text/center[120]/div/p[2],”).,,,o
-/html/body/document/type/sequence/filename/description/text/center[120]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[120]/div/p[3]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[120]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[120]/div/p[3]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[120]/div/p[4],"WHEREAS, the Company, the members of Parsley Energy, LLC, a Delaware limited liability company (“",,,o
 /html/body/document/type/sequence/filename/description/text/center[120]/div/p[4]/b[1],Opco LLC,,,o
 /html/body/document/type/sequence/filename/description/text/center[120]/div/p[4],"”), and the Agent entered into that certain Tax Receivable Agreement, dated as of May 29, 2014 (the “",,,o

@@ -5,14 +5,14 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"GI DI Orion Acquisition Inc,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"GI DI Orion Acquisition Inc,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],GI DI Orion Merger Sub Inc,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],GI DI Orion Merger Sub Inc,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],ORBCOMM Inc.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],ORBCOMM Inc.,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of April 7, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of April 7, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,Table of Contents,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,Table of Contents,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"GI DI Orion Acquisition Inc,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"GI DI Orion Acquisition Inc,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],GI DI Orion Merger Sub Inc,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],GI DI Orion Merger Sub Inc,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],ORBCOMM Inc.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],ORBCOMM Inc.,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of April 7, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of April 7, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,Table of Contents,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,Table of Contents,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE I THE MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],1,,,o
@@ -298,7 +298,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[27]/td[3],Delivery by Facsimile or Electronic Transmission,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[27]/td[6],82,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],iv,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],iv,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[1]/b,Terms,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[3]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[3]/td[1]/p,Acceptable Confidentiality Agreement,,,o
@@ -590,7 +590,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[9]/td[1]/p,Willful Breach,,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[9]/td[4],80,,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/p[2],viii,/html/body/document/type/sequence/filename/description/text/center[8]/div/p[2],viii,s_n
-/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2],"This AGREEMENT AND PLAN OF MERGER, dated as of April 7, 2021 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2],"”), by and among GI DI Orion Acquisition Inc, a Delaware corporation (“",,,o
@@ -604,7 +604,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2],"” and each, a “",,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2]/u[6],Party,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2],”).,,,o
-/html/body/document/type/sequence/filename/description/text/center[9]/div/p[3]/u,RECITALS,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[3]/u,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[9]/div/p[3]/u,RECITALS,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[3]/u,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[4],"WHEREAS, the board of directors of the Company (the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[4]/u[1],Company Board,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[4],”) has unanimously approved the merger of Merger Sub with and into the Company (the “,,,o

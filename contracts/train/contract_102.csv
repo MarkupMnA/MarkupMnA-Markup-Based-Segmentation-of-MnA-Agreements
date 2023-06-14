@@ -6,16 +6,16 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,EXECUTION VERSION,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"OAKTREE STRATEGIC INCOME CORPORATION,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"OAKTREE STRATEGIC INCOME CORPORATION,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"OAKTREE SPECIALTY LENDING CORPORATION,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"OAKTREE SPECIALTY LENDING CORPORATION,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"LION MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"LION MERGER SUB, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"OAKTREE FUND ADVISORS, LLC",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"OAKTREE FUND ADVISORS, LLC",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,(for the limited purposes set forth herein),/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,(for the limited purposes set forth herein),s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of October 28, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of October 28, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"OAKTREE STRATEGIC INCOME CORPORATION,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"OAKTREE STRATEGIC INCOME CORPORATION,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"OAKTREE SPECIALTY LENDING CORPORATION,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,"OAKTREE SPECIALTY LENDING CORPORATION,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"LION MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"LION MERGER SUB, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"OAKTREE FUND ADVISORS, LLC",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"OAKTREE FUND ADVISORS, LLC",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,(for the limited purposes set forth herein),/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b,(for the limited purposes set forth herein),i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of October 28, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"Dated as of October 28, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE I THE MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],2,,,o
@@ -108,7 +108,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[33]/td[3],OCSI Information,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[33]/td[6],15,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/p[4],i,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[4],i,s_n
-/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[2],(continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[2]/td[1]/p,3.11.,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[2]/td[3],Taxes and Tax Returns,,,o
@@ -209,7 +209,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[34]/td[3],Valuation,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[34]/td[6],33,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[5],ii,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[5],ii,s_n
-/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],(continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[2]/td[1],ARTICLE V REPRESENTATIONS AND WARRANTIES OF OFA,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[2]/td[4],34,,,o
@@ -308,7 +308,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[34]/td[3],Coordination of Dividends,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[34]/td[6],54,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[5],iii,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[5],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],(continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[1]/p,ARTICLE VIII CONDITIONS PRECEDENT,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[4],54,,,o
@@ -376,7 +376,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[24]/td[3],Disclosure Schedule,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[24]/td[6],75,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[6],iv,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[6],iv,s_n
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"AGREEMENT AND PLAN OF MERGER, dated as of October 28, 2020 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"”), among Oaktree Strategic Income Corporation, a Delaware corporation (“",,,o
@@ -397,7 +397,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],", Oaktree Fund Advisors, LLC, a Delaware limited liability company (“",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/u[13],OFA,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],”).,,,o
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],"WHEREAS, each of OCSI and OCSL has previously elected to be regulated as a business development company (“",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4]/u,BDC,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],"”), as defined in Section 2(a)(48) of the Investment Company Act, and OFA is the investment adviser to each of OCSI and OCSL;",,,o
@@ -2192,7 +2192,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[73]/div/p[6],“,,,o
 /html/body/document/type/sequence/filename/description/text/center[73]/div/p[6]/u,Treasury Regulations,,,o
 /html/body/document/type/sequence/filename/description/text/center[73]/div/p[6],"” means all final and temporary federal income tax regulations, as amended from time to time, issued under the Code by the United States Treasury Department.",,,o
-/html/body/document/type/sequence/filename/description/text/center[73]/div/p[7]/b,Table of Definitions,/html/body/document/type/sequence/filename/description/text/center[73]/div/p[7]/b,Table of Definitions,s_t
+/html/body/document/type/sequence/filename/description/text/center[73]/div/p[7]/b,Table of Definitions,/html/body/document/type/sequence/filename/description/text/center[73]/div/p[7]/b,Table of Definitions,s_st
 /html/body/document/type/sequence/filename/description/text/center[73]/div/table/tbody/tr[2]/td[1]/p/b,Term:,,,o
 /html/body/document/type/sequence/filename/description/text/center[73]/div/table/tbody/tr[2]/td[3]/b,Section:,,,o
 /html/body/document/type/sequence/filename/description/text/center[73]/div/table/tbody/tr[3]/td[1],Acceptable Courts,,,o
@@ -2226,7 +2226,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[73]/div/table/tbody/tr[17]/td[1],DGCL,,,o
 /html/body/document/type/sequence/filename/description/text/center[73]/div/table/tbody/tr[17]/td[3],1.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[73]/div/p[10],68,/html/body/document/type/sequence/filename/description/text/center[73]/div/p[10],68,s_n
-/html/body/document/type/sequence/filename/description/text/center[74]/div/p[1]/b,Table of Definitions,/html/body/document/type/sequence/filename/description/text/center[74]/div/p[1]/b,Table of Definitions,s_t
+/html/body/document/type/sequence/filename/description/text/center[74]/div/p[1]/b,Table of Definitions,/html/body/document/type/sequence/filename/description/text/center[74]/div/p[1]/b,Table of Definitions,s_st
 /html/body/document/type/sequence/filename/description/text/center[74]/div/table/tbody/tr[2]/td[1]/p/b,Term:,,,o
 /html/body/document/type/sequence/filename/description/text/center[74]/div/table/tbody/tr[2]/td[3]/b,Section:,,,o
 /html/body/document/type/sequence/filename/description/text/center[74]/div/table/tbody/tr[3]/td[1],Disclosure Schedule,,,o
@@ -2314,7 +2314,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[74]/div/table/tbody/tr[44]/td[1],OCSI Special Committee,,,o
 /html/body/document/type/sequence/filename/description/text/center[74]/div/table/tbody/tr[44]/td[3],Recitals,,,o
 /html/body/document/type/sequence/filename/description/text/center[74]/div/p[4],69,/html/body/document/type/sequence/filename/description/text/center[74]/div/p[4],69,s_n
-/html/body/document/type/sequence/filename/description/text/center[75]/div/p[1]/b,Table of Definitions,/html/body/document/type/sequence/filename/description/text/center[75]/div/p[1]/b,Table of Definitions,s_t
+/html/body/document/type/sequence/filename/description/text/center[75]/div/p[1]/b,Table of Definitions,/html/body/document/type/sequence/filename/description/text/center[75]/div/p[1]/b,Table of Definitions,s_st
 /html/body/document/type/sequence/filename/description/text/center[75]/div/table/tbody/tr[2]/td[1]/p/b,Term:,,,o
 /html/body/document/type/sequence/filename/description/text/center[75]/div/table/tbody/tr[2]/td[3]/b,Section:,,,o
 /html/body/document/type/sequence/filename/description/text/center[75]/div/table/tbody/tr[3]/td[1],OCSI Stockholders Meeting,,,o

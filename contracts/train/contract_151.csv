@@ -5,13 +5,13 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,by and among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,OPEN TEXT CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,OPEN TEXT CORPORATION,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,ZIX CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,ZIX CORPORATION,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"Dated November 7, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"Dated November 7, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3]/b,by and among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,OPEN TEXT CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,OPEN TEXT CORPORATION,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,ZIX CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,ZIX CORPORATION,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"Dated November 7, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"Dated November 7, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE I DEFINITIONS & INTERPRETATIONS,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],2,,,o
@@ -56,7 +56,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[20]/td[1]/p,2.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[20]/td[3],Directors and Officers of the Surviving Corporation,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[20]/td[6],28,,,o
-/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[21]/td[1]/p,2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[21]/td[1]/p,2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[21]/td[3],Effect on Capital Stock,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[21]/td[6],28,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[22]/td[1]/p,2.11,,,o
@@ -109,7 +109,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[40]/td[1]/p,3.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[40]/td[3],Company Financial Statements; Controls,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[40]/td[6],40,,,o
-/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[41]/td[1]/p,3.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[41]/td[1]/p,3.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[41]/td[3],No Undisclosed Liabilities,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[41]/td[6],41,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[42]/td[1]/p,3.11,,,o
@@ -139,7 +139,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[50]/td[1]/p,3.19,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[50]/td[3],Labor and Employment Matters,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[50]/td[6],52,,,o
-/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[51]/td[1]/p,3.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[51]/td[1]/p,3.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[51]/td[3],Permits,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[51]/td[6],53,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[2]/td[1]/p,3.21,,,o
@@ -192,7 +192,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[1]/p,4.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[3],Financial Capability,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[6],58,,,o
-/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[21]/td[1]/p,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[21]/td[1]/p,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[21]/td[3],[Reserved],,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[21]/td[6],58,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[22]/td[1]/p,4.11,,,o
@@ -250,7 +250,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[44]/td[1]/p,6.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[44]/td[3],Section 16(b) Exemption,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[44]/td[6],74,,,o
-/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[45]/td[1]/p,6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[45]/td[1]/p,6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[45]/td[3],"Directors’ and Officers’ Exculpation, Indemnification and Insurance",,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[45]/td[6],74,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[46]/td[1]/p,6.11,,,o
@@ -280,7 +280,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[3]/td[1]/p,6.19,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[3]/td[3],No Employment Arrangements,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[3]/td[6],80,,,o
-/html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[4]/td[1]/p,6.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[4]/td[1]/p,6.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[4]/td[3],Rule,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[4]/td[3]/font,14d-10,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[4]/td[3],Matters,,,o
@@ -336,7 +336,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[28]/td[1]/p,9.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[28]/td[3],Severability,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[28]/td[6],88,,,o
-/html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[29]/td[1]/p,9.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[29]/td[1]/p,9.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[29]/td[3],Remedies,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[29]/td[6],88,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[1]/tbody/tr[30]/td[1]/p,9.11,,,o
@@ -361,7 +361,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[2]/tbody/tr[2]/td[3]/p,Account Information,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[2]/tbody/tr[3]/td[1]/p,Annex I,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[2]/tbody/tr[3]/td[3]/p,Conditions to the Offer,,,o
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],This AGREEMENT AND PLAN OF MERGER (this “,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/b[1]/i,Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],"”) is dated November 7, 2021, by and among Open Text Corporation, a Canadian corporation (“",,,o
@@ -373,7 +373,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],.” All capitalized terms that are used in this Agreement have the respective meanings given to them in,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/u,Article I,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],.,,,o
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4],"A. Parent will form, or cause to be formed, a wholly-owned Subsidiary (“",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4]/b[1]/i,Merger Sub,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4],"”) to commence a cash tender offer (as it may be amended from time to time as permitted under this Agreement, the “",,,o
@@ -395,7 +395,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[8],"E. Parent, Merger Sub and the Company desire to (i) make certain representations, warranties, covenants and agreements in connection with this Agreement and the Transactions and (ii) prescribe certain conditions with respect to the consummation of the Transactions.",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[9],"F. Parent, Merger Sub and the Company acknowledge and agree that the Merger shall be effected under Section 21.459(c) of the TBOC and shall, subject to satisfaction of the conditions set forth herein, be consummated as promptly as practicable following the Offer Acceptance Time.",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[11],1,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[11],1,s_n
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,AGREEMENT,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"NOW, THEREFORE, in consideration of the foregoing premises and the representations, warranties, covenants and agreements set forth herein, as well as other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,ARTICLE I,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,ARTICLE I,s_sn
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4]/b,DEFINITIONS & INTERPRETATIONS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[4]/b,DEFINITIONS & INTERPRETATIONS,s_st
@@ -1484,7 +1484,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[7],(b),/html/body/document/type/sequence/filename/description/text/center[32]/div/p[7],(b),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[7]/i,Officers,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[7]/i,Officers,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[7],". The Parties shall take all necessary actions so that the officers of the Company as of immediately prior to the Effective Time are the initial officers of the Surviving Corporation, each to hold office in accordance with the certificate of incorporation and bylaws of the Surviving Corporation until their respective successors are duly appointed, or until their resignation or removal.",,,o
-/html/body/document/type/sequence/filename/description/text/center[32]/div/p[8],2.10,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[8],2.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[32]/div/p[8],2.1,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[8],2.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[8]/i,Effect on Capital Stock,/html/body/document/type/sequence/filename/description/text/center[32]/div/p[8]/i,Effect on Capital Stock,s_sst
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[8],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[32]/div/p[9],(a),/html/body/document/type/sequence/filename/description/text/center[32]/div/p[9],(a),s_sssn
@@ -1517,7 +1517,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[33]/div/p[4]/b[2]/i,Dissenting Company Shares,,,o
 /html/body/document/type/sequence/filename/description/text/center[33]/div/p[4],"”) shall not be converted into, or represent the right to receive, the Per Share Price pursuant to this",,,o
 /html/body/document/type/sequence/filename/description/text/center[33]/div/p[4]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[33]/div/p[4]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[33]/div/p[4]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[33]/div/p[4],". Such Company Stockholders shall be entitled to receive payment of such amounts as are payable in accordance with the Dissenting Shareholder Statute (it being understood that at the Effective Time, such Dissenting Company Shares shall no longer be outstanding, shall automatically be cancelled and shall cease to exist, and such Company Stockholder shall cease to have any voting or other rights with respect thereto other than the right to receive the payment of such amounts as are payable in accordance with the Dissenting Shareholder Statute);",,,o
 /html/body/document/type/sequence/filename/description/text/center[33]/div/p[4]/i[2],"provided, however",,,o
 /html/body/document/type/sequence/filename/description/text/center[33]/div/p[4],", that if any such Company Stockholder fails to perfect or effectively withdraws or loses the right to appraisal of such Dissenting Company Shares pursuant to the Dissenting Shareholder Statute, then the right of such holder to any such payment shall cease and such Dissenting Company Shares shall be deemed to have been converted into, and to have become cancelled and exchanged solely for, as of the Effective Time, the right to receive the Per Share Price, without interest thereon, upon surrender of the Certificates or Uncertificated Shares that formerly evidenced such Shares in the manner provided in",,,o
@@ -1594,10 +1594,10 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/i,Exchange Fund,/html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/i,Exchange Fund,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6],". At or prior to the Closing, Parent will deposit (or cause to be deposited) with the Payment Agent, by wire transfer of immediately available funds, for payment to the holders of Shares pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6],", an amount of cash equal to the aggregate consideration to which such holders of Shares become entitled pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/u[4],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/u[6],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/u[6],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6],". Until disbursed in accordance with the terms and conditions of this Agreement, such cash will be invested by the Payment Agent, as directed by Parent or the Surviving Corporation, in (i) obligations of or fully guaranteed by the United States or any agency or instrumentality thereof and backed by the full faith and credit of the United States with a maturity of no more than 30 days; (ii) commercial paper obligations rated",,,o
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6]/font[1],A-1,,,o
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[6],or,,,o
@@ -1608,13 +1608,13 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[35]/div/p[8],31,/html/body/document/type/sequence/filename/description/text/center[35]/div/p[8],31,s_n
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1],diminishes for any reason below the level required for the Payment Agent to promptly pay the cash amounts contemplated by,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1],; or (C) all or any portion of the Exchange Fund is unavailable for Parent (or the Payment Agent on behalf of Parent) to promptly pay the cash amounts contemplated by,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[4],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[6],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[6],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1],"for any reason, then Parent will, or will cause the Surviving Corporation to, promptly replace or restore the amount of cash in the Exchange Fund so as to ensure that the Exchange Fund is at all times fully available for distribution and maintained at a level sufficient for the Payment Agent to make the payments contemplated by",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[7],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[9],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[1]/u[9],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1],". Any interest or other income from investment of the Exchange Fund will be payable to Parent or the Surviving Corporation, as Parent directs.",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2],(c),/html/body/document/type/sequence/filename/description/text/center[36]/div/p[2],(c),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/i,Exchange and Payment Procedures.,/html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/i,Exchange and Payment Procedures,s_ssst
@@ -1624,10 +1624,10 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/b/i,Certificates,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3],”) whose Shares were converted into the right to receive the consideration payable in respect thereof pursuant to,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3],", (A) a letter of transmittal in customary form (which will specify that delivery will be effected, and risk of loss and title to the Certificates will pass, only upon delivery of the Certificates to the Payment Agent); and (B) instructions for use in effecting the surrender of the Certificates in exchange for the consideration payable in respect thereof pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[4],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[6],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[6],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3],. Upon surrender to the Payment Agent of a Certificate (or affidavit of loss in lieu of a Certificate as provided in,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[7],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[9],2.14,,,o
@@ -1636,7 +1636,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[12],2.12(c)(i),,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3],". Until so surrendered, the Certificates will be deemed from and after the Effective Time to evidence only the right to receive the consideration payable in respect thereof pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[13],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[15],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[3]/u[15],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[3],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4],(ii),/html/body/document/type/sequence/filename/description/text/center[36]/div/p[4],(ii),s_ssssn
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/i,Uncertificated Shares,/html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/i,Uncertificated Shares,s_sssst
@@ -1644,10 +1644,10 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/b/i,Uncertificated Shares,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4],”) will not be required to deliver a Certificate or an executed letter of transmittal to the Payment Agent to receive the consideration payable in respect thereof pursuant to,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4],". In lieu thereof, each holder of record (as of immediately prior to the Effective Time) of an Uncertificated Share that immediately prior to the Effective Time represented an outstanding Share (other than Dissenting Company Shares and Owned Company Shares) whose Shares were converted into the right to receive the consideration payable in respect thereof pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/u[4],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/u[6],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[4]/u[6],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[4],"will, upon receipt of an “agent’s message” in customary form (it being understood that the holders of Uncertificated Shares will be deemed to have surrendered such Uncertificated Shares upon receipt of an “agent’s message” or such other evidence, if any, as the Payment Agent may reasonably request) at the Effective Time, be entitled to receive (and Parent will cause the Payment Agent to pay and deliver as promptly as practicable) an amount in cash equal to the product obtained by multiplying (A) the aggregate number of Shares represented by such holder’s transferred Uncertificated Shares by",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[6],32,/html/body/document/type/sequence/filename/description/text/center[36]/div/p[6],32,s_n
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[1],(B) the Per Share Price (less any applicable withholding Taxes in respect thereof). The Uncertificated Shares so surrendered will be cancelled. The Payment Agent will accept transferred Uncertificated Shares upon compliance with such reasonable terms and conditions as the Payment Agent may impose to cause an orderly exchange thereof in accordance with normal exchange practices. No interest will be paid or accrued for the benefit of any holder of the Uncertificated Shares on the amount payable upon the surrender of such Uncertificated Shares pursuant to this,,,o
@@ -1666,7 +1666,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[3]/i,Transfers of Ownership,/html/body/document/type/sequence/filename/description/text/center[37]/div/p[3]/i,Transfers of Ownership,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[3],". If a transfer of ownership of Shares is not registered in the stock transfer books or ledger of the Company, or if the consideration payable is to be paid in a name other than that in which the Certificates surrendered or transferred in exchange therefor are registered in the stock transfer books or ledger of the Company, then the consideration payable pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[3]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[37]/div/p[3]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[37]/div/p[3]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[3],"may be paid to a Person other than the Person in whose name the Certificate so surrendered or transferred is registered in the stock transfer books or ledger of the Company only if such Certificate is properly endorsed and otherwise in proper form for surrender and transfer and the Person requesting such payment has paid to Parent (or any agent designated by Parent) any applicable stock transfer Taxes required by reason of the payment of the Per Share Price to a Person other than the registered holder of such Certificate, or established to the satisfaction of Parent (or any agent designated by Parent) that such transfer Taxes have been paid or are otherwise not payable. Payment of the consideration payable with respect to Uncertificated Shares will only be made to the Person in whose name such Uncertificated Shares are registered.",,,o
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[4],(f),/html/body/document/type/sequence/filename/description/text/center[37]/div/p[4],(f),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[37]/div/p[4]/i,Escheat,/html/body/document/type/sequence/filename/description/text/center[37]/div/p[4]/i,Escheat,s_ssst
@@ -1679,13 +1679,13 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[1]/u[3],2.12,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[1],"will thereafter look for payment of the Per Share Price (less any applicable withholding Taxes in respect thereof) payable in respect of the Shares represented by such Certificates or Uncertificated Shares solely to Parent (subject to abandoned property, escheat or similar Laws), solely as general creditors thereof, for any claim to the Per Share Price to which such holders may be entitled pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[1]/u[4],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[1]/u[6],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[1]/u[6],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[1],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],2.13,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],2.13,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/i,No Further Ownership Rights in Shares,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/i,No Further Ownership Rights in Shares,s_sst
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],". From and after the Effective Time, (a) all Shares will no longer be outstanding and will automatically be cancelled and cease to exist; and (b) each holder of a Certificate or Uncertificated Shares previously representing any Shares will cease to have any rights with respect thereto, except the right to receive the consideration payable therefor in accordance with",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2],"(or in the case of Dissenting Company Shares, the rights pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/u[4],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[2]/u[6],2.10(c),,,o
@@ -1701,7 +1701,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/i,"Lost, Stolen or Destroyed Certificates",/html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/i,"Lost, Stolen or Destroyed Certificates",s_sst
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[3],". In the event that any Certificates have been lost, stolen or destroyed, the Payment Agent will issue in exchange therefor, upon the making of an affidavit of that fact by the holder thereof, the Per Share Price (less any applicable withholding Taxes in respect thereof) payable in respect thereof pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/u[3],2.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[3]/u[3],2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[3],". Parent or the Payment Agent may, in its discretion and as a condition precedent to the payment of such Per Share Price, require the owners of such lost, stolen or destroyed Certificates to deliver a bond in such amount as it may direct as indemnity against any claim that may be made against Parent, the Surviving Corporation or the Payment Agent with respect to the Certificates alleged to have been lost, stolen or destroyed.",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[4],2.15,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[4],2.15,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[4]/i,Required Withholding,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[4]/i,Required Withholding,s_sst
@@ -1859,7 +1859,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[45]/div/p[2],(c) ,/html/body/document/type/sequence/filename/description/text/center[45]/div/p[2],(c),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[45]/div/p[2],Nasdaq,/html/body/document/type/sequence/filename/description/text/center[45]/div/p[2],Nasdaq,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[45]/div/p[2],. The Company is in compliance in all material respects with all current listing and corporate governance requirements of Nasdaq.,,,o
-/html/body/document/type/sequence/filename/description/text/center[45]/div/p[3],3.10,/html/body/document/type/sequence/filename/description/text/center[45]/div/p[3],3.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[45]/div/p[3],3.1,/html/body/document/type/sequence/filename/description/text/center[45]/div/p[3],3.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[45]/div/p[3]/i,No Undisclosed Liabilities,/html/body/document/type/sequence/filename/description/text/center[45]/div/p[3]/i,No Undisclosed Liabilities,s_sst
 /html/body/document/type/sequence/filename/description/text/center[45]/div/p[3],". The Company and its Subsidiaries have no liabilities or obligations of any nature required to be reflected or reserved against on a balance sheet (or the notes thereto) prepared in accordance with GAAP, other than liabilities (a) reflected or otherwise reserved against in the Audited Company Balance Sheet or in the consolidated financial statements of the Company and its Subsidiaries (including the notes thereto) included in the Company SEC Reports; (b) arising pursuant to this Agreement or incurred in connection with the Offer or the Merger (including any Transaction Litigation); (c) incurred in the ordinary course of business on or after January 1, 2021; or (d) that would not, individually or in the aggregate, have a Company Material Adverse Effect. Neither the Company nor any of its Subsidiaries is a party to, or has any commitment to become a party to, any joint venture,",,,o
 /html/body/document/type/sequence/filename/description/text/center[45]/div/p[3]/font[1],off-balance,,,o
@@ -2128,7 +2128,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[57]/div/p[4],(b),/html/body/document/type/sequence/filename/description/text/center[57]/div/p[4],(b),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[57]/div/p[4]/i,Employment Law Compliance,/html/body/document/type/sequence/filename/description/text/center[57]/div/p[4]/i,Employment Law Compliance,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[57]/div/p[4],". Since December 31, 2019, the Company and its Subsidiaries have complied in all material respects with applicable Laws with respect to labor and employment (including applicable Laws regarding fair employment practices, terms and conditions of employment, applicant and employee background checking, workers’ compensation, plant closings, wage and hour requirements, classification of employees and independent contractors, withholding of Taxes, disability rights or benefits, equal opportunity, labor relations, employee leave issues, affirmative action, unemployment insurance, immigration status, discrimination in employment and employee health and safety). The Company and its Subsidiaries are not liable for any material arrears of wages or any material penalty for failure to comply with any of the foregoing. Neither the Company nor any of its Subsidiaries are liable for any material payment to any trust or other fund or to any Governmental Authority with respect to unemployment compensation benefits, social security or other benefits for employees (other than routine payments to be made in the ordinary course of business). Except as would not reasonably be expected to result in material liability to the Company or its Subsidiaries, (i) none of the Company or its Subsidiaries has entered into a settlement agreement with a current or former officer, director or employee of the Company or its Subsidiaries resolving allegations of sexual harassment or misconduct by an officer, director or employee of the Company or its Subsidiaries, and (ii) there are no, and since December 31, 2019, there have not been any litigations pending or, to the Knowledge of the Company, threatened against the Company or its Subsidiaries, in each case, involving allegations of sexual harassment or misconduct by an officer, director or employee of the Company or its Subsidiaries.",,,o
-/html/body/document/type/sequence/filename/description/text/center[57]/div/p[5],3.20,/html/body/document/type/sequence/filename/description/text/center[57]/div/p[5],3.20,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[57]/div/p[5],3.2,/html/body/document/type/sequence/filename/description/text/center[57]/div/p[5],3.2,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[57]/div/p[5]/i,Permits,/html/body/document/type/sequence/filename/description/text/center[57]/div/p[5]/i,Permits,s_sst
 /html/body/document/type/sequence/filename/description/text/center[57]/div/p[5],". Except as would not, individually or in the aggregate, constitute a Company Material Adverse Effect, the Company and its Subsidiaries hold, to the extent legally required, all Permits that are required for the operation of the business of the Company and its Subsidiaries as currently conducted. The Company and its Subsidiaries comply, and since December 31, 2019 have complied, with the terms of all Permits, and no suspension or cancellation of any of the Permits is pending or threatened, except for such noncompliance, suspensions or cancellations that would not, individually or in the aggregate, have a Company Material Adverse Effect.",,,o
 /html/body/document/type/sequence/filename/description/text/center[57]/div/p[6],3.21,/html/body/document/type/sequence/filename/description/text/center[57]/div/p[6],3.21,s_ssn
@@ -2237,7 +2237,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[62]/div/p[5],4.9,/html/body/document/type/sequence/filename/description/text/center[62]/div/p[5],4.9,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[62]/div/p[5]/i,Financial Capability,/html/body/document/type/sequence/filename/description/text/center[62]/div/p[5]/i,Financial Capability,s_sst
 /html/body/document/type/sequence/filename/description/text/center[62]/div/p[5],". Parent has, or will have as of the Closing, available sufficient cash or other sources of immediately available funds to pay all amounts payable pursuant to Article II (including all amounts required to pay any Indebtedness of the Company and its Subsidiaries required to be repaid, redeemed, retired, cancelled, terminated or otherwise satisfied or discharged in connection with the Merger and any premiums and fees incurred in connection therewith) and the payment of all fees, costs and expenses to be paid by Parent or Merger Sub related to the Transactions. Parent’s obligations hereunder are not subject to any conditions regarding Parent’s ability to obtain financing for the Merger.",,,o
-/html/body/document/type/sequence/filename/description/text/center[62]/div/p[6],4.10,/html/body/document/type/sequence/filename/description/text/center[62]/div/p[6],4.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[62]/div/p[6],4.1,/html/body/document/type/sequence/filename/description/text/center[62]/div/p[6],4.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[62]/div/p[6]/i,[Reserved],/html/body/document/type/sequence/filename/description/text/center[62]/div/p[6]/i,Reserved,s_sst
 /html/body/document/type/sequence/filename/description/text/center[62]/div/p[6],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[62]/div/p[7],4.11,/html/body/document/type/sequence/filename/description/text/center[62]/div/p[7],4.11,s_ssn
@@ -2703,7 +2703,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[78]/div/p[2],". Prior to the Effective Time, the Company will take all actions reasonably necessary to cause the Transactions, and any dispositions of equity securities of the Company (including derivative securities) in connection with the Transactions by each individual who is a director or executive officer of the Company to be exempt pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[78]/div/p[2]/font,Rule 16b-3,,,o
 /html/body/document/type/sequence/filename/description/text/center[78]/div/p[2],promulgated under the Exchange Act.,,,o
-/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3],6.10,/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3],6.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3],6.1,/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3],6.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[78]/div/p[3]/i[1],Directors,/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3]/i[1],Directors,b_sst
 /html/body/document/type/sequence/filename/description/text/center[78]/div/p[3]/i[2],’,/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3]/i[2],’,i_sst
 /html/body/document/type/sequence/filename/description/text/center[78]/div/p[3]/i[3],and Officers,/html/body/document/type/sequence/filename/description/text/center[78]/div/p[3]/i[3],and Officers,i_sst
@@ -2732,7 +2732,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[79]/div/p[2]/u[9],6.10(b),,,o
 /html/body/document/type/sequence/filename/description/text/center[79]/div/p[2],", (A) Parent or the Surviving Corporation, as applicable, will have the right to control the defense thereof after the Effective Time (it being understood that, by electing to control the defense thereof, Parent or the Surviving Corporation, as applicable, will be deemed to have waived any right to object to the Indemnified Person’s entitlement to indemnification under this",,,o
 /html/body/document/type/sequence/filename/description/text/center[79]/div/p[2]/u[10],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[79]/div/p[2]/u[12],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[79]/div/p[2]/u[12],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[79]/div/p[2],"with respect thereto); (B) each Indemnified Person will be entitled to retain his or her own counsel (the fees and expenses of which will be paid by Parent or the Surviving Corporation), whether or not Parent or the Surviving Corporation elects to control the defense of any such Legal Proceeding; (C) upon receipt of an undertaking by or on behalf of such Indemnified Person to repay any amount if it is ultimately determined that such Indemnified Person is not entitled to indemnification, Parent or the Surviving Corporation will advance all fees and expenses (including fees and expenses of any counsel) as incurred by an Indemnified Person in the defense of such Legal Proceeding, whether or not Parent or the Surviving Corporation elects to control the defense of any such Legal Proceeding, in accordance with the applicable organizational documents or indemnification agreement; and (D) no Indemnified Person will be liable for any settlement of such Legal Proceeding effected without his or her prior written consent (unless such settlement relates only to monetary damages for which Parent or the Surviving Corporation is entirely responsible). Notwithstanding anything to the contrary in this Agreement, none of Parent, the Surviving Corporation or any of their respective Affiliates will settle or otherwise compromise or consent to the entry of any judgment with respect to, or otherwise seek the termination of, any Legal Proceeding for which indemnification may be sought by an Indemnified Person pursuant to this Agreement unless such settlement, compromise, consent or termination includes an unconditional release of all Indemnified Persons from all liability arising out of such Legal Proceeding. Any determination required to be made with respect to whether the conduct of any Indemnified Person complies or complied with any applicable standard will be made in accordance with the applicable organizational documents or indemnification agreement.",,,o
 /html/body/document/type/sequence/filename/description/text/center[79]/div/p[4],75,/html/body/document/type/sequence/filename/description/text/center[79]/div/p[4],75,s_n
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[1],(c),/html/body/document/type/sequence/filename/description/text/center[80]/div/p[1],(c),s_sssn
@@ -2752,25 +2752,25 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[2]/i,Successors and Assigns,/html/body/document/type/sequence/filename/description/text/center[80]/div/p[2]/i,Successors and Assigns,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[2],". Proper provisions will be made so that the successors and assigns of Parent, the Surviving Corporation or any of their respective successors or assigns will assume all of the obligations of Parent and the Surviving Corporation set forth in this",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[2]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[80]/div/p[2]/u[3],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[80]/div/p[2]/u[3],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[2],"if Parent, the Surviving Corporation or any of their respective successors or assigns either (i) consolidates with or merges into any other Person and is not the continuing or surviving corporation or entity in such consolidation or merger; or (ii) transfers all or substantially all of its properties and assets to any Person.",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3],(e),/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3],(e),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/i,No Impairment; Third Person Beneficiary Rights,/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/i,No Impairment; Third Person Beneficiary Rights,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3],. The obligations set forth in this,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[3],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[3],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3],"may not be terminated, amended or otherwise modified in any manner that adversely affects any Indemnified Person (or any other person (and his or her heirs and representatives) who is a beneficiary pursuant to the D&O Insurance or the Tail Policy) without the prior written consent of such affected Indemnified Person or other person. Each of the Indemnified Persons or other persons (and his or her heirs and representatives) who are beneficiaries pursuant to the D&O Insurance or the Tail Policy are intended to be third party beneficiaries of this",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[4],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[6],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[6],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3],", with full rights of enforcement as if such Person were a Party. The rights of the Indemnified Persons (and other persons (and his or her heirs and representatives) who are beneficiaries pursuant to the D&O Insurance or the Tail Policy) pursuant to this",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[7],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[9],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[80]/div/p[3]/u[9],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[3],"will be in addition to, and not in substitution for, any other rights that such persons may have pursuant to (i) the Charter and Bylaws; (ii) the similar organizational documents of the Subsidiaries of the Company; (iii) any and all indemnification agreements entered into with the Company or any of its Subsidiaries; or (iv) applicable Law.",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],(f),/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],(f),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/i,Other Claims,/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/i,Other Claims,s_ssst
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],". Nothing in this Agreement is intended to, or will be construed to, release, waive or impair any rights to directors’ and officers’ insurance claims pursuant to any applicable insurance policy or indemnification agreement that is or has been in existence with respect to the Company or any of its Subsidiaries for any of their respective directors, officers or other employees, it being understood and agreed that the indemnification provided for in this",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[3],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[3],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],is not prior to or in substitution for any such claims pursuant to such policies or agreements.,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[6],76,/html/body/document/type/sequence/filename/description/text/center[80]/div/p[6],76,s_n
 /html/body/document/type/sequence/filename/description/text/center[81]/div/p[1],6.11,/html/body/document/type/sequence/filename/description/text/center[81]/div/p[1],6.11,s_ssn
@@ -2881,7 +2881,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[2],". Except as approved by the Company Board, at all times during the",,,o
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[2]/font,Pre-Closing,,,o
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[2],"Period, Parent and Merger Sub will not, and will not permit any of their Subsidiaries or controlled Affiliates to authorize, make or enter into, or commit or agree to enter into, any formal or informal arrangements or other understandings (whether or not binding) with any director or executive officer of the Company (i) regarding any continuing employment or consulting relationship with the Surviving Corporation from and after the Effective Time; or (ii) pursuant to which any such individual would be entitled to receive consideration of a different amount or nature than the Per Share Price in respect of such holder’s Shares; or (iii) pursuant to which such individual would agree to provide, directly or indirectly, equity investment to Parent, Merger Sub or the Company to finance any portion of the Transactions.",,,o
-/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3],6.20,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3],6.20,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3],6.2,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3],6.2,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/i,Rule,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/i,Rule,b_sst
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/i/font,14d-10,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/i/font,14d-10,i_sst
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/i,Matters,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/i,Matters,e_sst
@@ -2891,7 +2891,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/font[2],14d-10(d)(1),,,o
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3],"promulgated under the Exchange Act) between the Company or any of its Subsidiaries and any director, officer or employee of the Company or any of its Subsidiaries who then holds Shares and to ensure that any such “employment compensation, severance or other employee benefit arrangement” fall within the safe harbor provision of such rule. Promptly upon Parent or any of its Affiliates entering into any such arrangement with any such Person, Parent will provide to the Company any and all information concerning such arrangements as may be needed by the Company to comply with this",,,o
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/u[3],6.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[84]/div/p[3]/u[3],6.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[3],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[4],6.21,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[4],6.21,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[84]/div/p[4]/i,Israeli Tax Ruling,/html/body/document/type/sequence/filename/description/text/center[84]/div/p[4]/i,Israeli Tax Ruling,s_sst
@@ -3056,7 +3056,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/u[22],8.3,,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5],",",,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/u[23],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/u[25],9.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/u[25],9.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5],and,,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/u[26],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[87]/div/p[5]/u[28],9.16,,,o
@@ -3169,10 +3169,10 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[9],8.3(d),,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1],", and Parent’s right to seek specific performance pursuant to",,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[10],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[12],9.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[12],9.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1],(subject to the limitations set forth in,,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[13],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[15],9.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/u[15],9.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1],"), will be the sole and exclusive remedies of Parent and Merger Sub against (A) the Company and its Subsidiaries; and (B) the former, current and future holders of any equity, controlling persons, Representatives, Affiliates, members, managers, general or limited partners, stockholders, directors, officers, employees, agents, attorneys and assignees of each of the Company, its Subsidiaries and each of their respective Affiliates and former, current and future holders of any equity, controlling persons, Representatives, Affiliates, members, managers, general or limited partners, stockholders, directors, officers, employees, agents, attorneys and assignees of each of the foregoing (the Persons in clauses (A) and (B) collectively, the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1]/b[1]/i,Company Related Parties,,,o
 /html/body/document/type/sequence/filename/description/text/center[89]/div/p[1],"”) in respect of this Agreement and the Transactions. Except in the event of fraud or any Willful Breach of any representation, warranty or covenant or agreement contained herein, upon payment of the Termination Fee to Parent or its designee, none of the Company Related Parties will have any further monetary liability or obligation to (A) Parent or Merger Sub; or (B) the former, current and future direct or indirect holders of any equity, controlling persons, Representatives, Affiliates (other than Parent or Merger Sub), members, managers, general or limited partners, stockholders and assignees of each of Parent and Merger Sub (the Persons in clauses (A) and (B) collectively, the “",,,o
@@ -3275,13 +3275,13 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/i,Third Party Beneficiaries,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/i,Third Party Beneficiaries,s_sst
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1],. Except as set forth in,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[3],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[3],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1],and this,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[4],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[6],9.8,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1],", the Parties agree that their respective representations, warranties and covenants set forth in this Agreement are solely for the benefit of the other Parties in accordance with and subject to the terms of this Agreement. This Agreement is not intended to, and will not, confer upon any other Person any rights or remedies under this Agreement, except (a) as set forth in or contemplated by",,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[7],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[9],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[9],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1],"; (b) from and after the Effective Time, the rights of the holders of Shares, Company Stock-Based Awards and Company Options to receive the merger consideration set forth in",,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1]/u[10],Article II,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[1],; and (c) the provisions of,,,o
@@ -3294,7 +3294,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[2],9.9,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[2],9.9,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[2]/i,Severability,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[2]/i,Severability,s_sst
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[2],". In the event that any provision of this Agreement, or the application thereof, becomes or is declared by a court of competent jurisdiction to be illegal, void or unenforceable, the remainder of this Agreement will continue in full force and effect and the application of such provision to other Persons or circumstances will be interpreted so as reasonably to effect the intent of the Parties. The Parties further agree to replace such void or unenforceable provision of this Agreement with a valid and enforceable provision that will achieve, to the extent possible, the economic, business and other purposes of such void or unenforceable provision.",,,o
-/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3],9.10,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3],9.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3],9.1,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3],9.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/i,Remedies,/html/body/document/type/sequence/filename/description/text/center[92]/div/p[3]/i,Remedies,s_sst
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[3],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4],(a),/html/body/document/type/sequence/filename/description/text/center[92]/div/p[4],(a),s_sssn
@@ -3307,7 +3307,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4]/u[6],8.3,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4],", this",,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4]/u[7],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[92]/div/p[4]/u[9],9.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[92]/div/p[4]/u[9],9.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4],and,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4]/u[10],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[92]/div/p[4]/u[12],9.16,,,o

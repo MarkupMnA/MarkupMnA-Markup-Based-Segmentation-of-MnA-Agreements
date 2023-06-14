@@ -5,15 +5,15 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3],by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3],by and among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,"NEWPORT HOLDINGS, LLC",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,"NEWPORT HOLDINGS, LLC",b_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],",",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],",",e_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"NEWPORT MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"NEWPORT MERGER SUB, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,THE NEW HOME COMPANY INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,THE NEW HOME COMPANY INC.,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"Dated as of July 23, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"Dated as of July 23, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[2]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3],by and among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[3],by and among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,"NEWPORT HOLDINGS, LLC",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,"NEWPORT HOLDINGS, LLC",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],",",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],",",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"NEWPORT MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,"NEWPORT MERGER SUB, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,THE NEW HOME COMPANY INC.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,THE NEW HOME COMPANY INC.,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"Dated as of July 23, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"Dated as of July 23, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE 1 THE OFFER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],3,,,o
@@ -83,7 +83,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[33]/td[1]/p,4.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[33]/td[3]/p,No Undisclosed Liabilities,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[33]/td[6],23,,,o
-/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[34]/td[1]/p,4.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[34]/td[1]/p,4.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[34]/td[3]/p,Absence of Certain Changes or Events,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[34]/td[6],24,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[35]/td[1]/p,4.11,,,o
@@ -113,7 +113,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[43]/td[1]/p,4.19,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[43]/td[3]/p,Homeowners Associations,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[43]/td[6],34,,,o
-/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[44]/td[1]/p,4.20,,,o
+/html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[44]/td[1]/p,4.2,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[44]/td[3]/p,Construction Matters,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[44]/td[6],34,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[45]/td[1]/p,4.21,,,o
@@ -173,7 +173,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[19]/td[1]/p,5.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[19]/td[3]/p,Ownership of Merger Sub,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[19]/td[6],40,,,o
-/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[1]/p,5.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[1]/p,5.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[3]/p,Solvency,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[20]/td[6],40,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[21]/td[1]/p,5.11,,,o
@@ -214,7 +214,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[35]/td[1]/p,6.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[35]/td[3]/p,Takeover Statutes,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[35]/td[6],60,,,o
-/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[36]/td[1]/p,6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[36]/td[1]/p,6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[36]/td[3]/p,Section 16 Matters,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[36]/td[6],60,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[37]/td[1]/p,6.11,,,o
@@ -286,7 +286,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[18]/td[1]/p,9.9,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[18]/td[3]/p,Severability,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[18]/td[6],96,,,o
-/html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[19]/td[1]/p,9.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[19]/td[1]/p,9.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[19]/td[3]/p,Entire Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[19]/td[6],96,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[20]/td[1]/p,9.11,,,o
@@ -315,7 +315,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[29]/td[1]/p/b,Annex B,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[29]/td[1]/p,– Form of Tender and Support Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],-iii-,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],-iii-,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],"This AGREEMENT AND PLAN OF MERGER, dated as of July 23, 2021 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],"”), is made by and among Newport Holdings, LLC, a Delaware limited liability company (“",,,o
@@ -980,7 +980,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[27]/div/p[5]/u,No Undisclosed Liabilities,/html/body/document/type/sequence/filename/description/text/center[27]/div/p[5]/u,No Undisclosed Liabilities,s_sst
 /html/body/document/type/sequence/filename/description/text/center[27]/div/p[5],". Except for those liabilities and obligations (a) specifically disclosed or reflected and adequately reserved against or provided for in the Company Financial Statements filed as of March 31, 2021, (b) incurred in the ordinary course of business consistent with past practice since March 31, 2021 (none of which is a liability resulting from a breach of contract, breach of warranty, tort, infringement or misappropriation), (c) for Taxes, (d) incurred in accordance with this Agreement or in connection with any transaction contemplated by this Agreement or (e) that otherwise are not and would not reasonably be expected to have, individually or in the aggregate, a Company Material Adverse Effect, taken as a whole, neither the Company nor any Company Subsidiary is, as of the date of this Agreement, subject to any liabilities or obligations, whether accrued, contingent or otherwise.",,,o
 /html/body/document/type/sequence/filename/description/text/center[27]/div/p[7],-23-,/html/body/document/type/sequence/filename/description/text/center[27]/div/p[7],-23-,s_n
-/html/body/document/type/sequence/filename/description/text/center[28]/div/p[1],4.10,/html/body/document/type/sequence/filename/description/text/center[28]/div/p[1],4.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[28]/div/p[1],4.1,/html/body/document/type/sequence/filename/description/text/center[28]/div/p[1],4.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[28]/div/p[1]/u,Absence of Certain Changes or Events,/html/body/document/type/sequence/filename/description/text/center[28]/div/p[1]/u,Absence of Certain Changes or Events,s_sst
 /html/body/document/type/sequence/filename/description/text/center[28]/div/p[1],.,,,o
 /html/body/document/type/sequence/filename/description/text/center[28]/div/p[2],"(a)    Since January 1, 2021 through the date of this Agreement, the Company and the Company Subsidiaries have conducted their respective businesses in all material respects in the ordinary course of business consistent with past practice.",,,o
@@ -1164,7 +1164,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[5],4.19,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[5],4.19,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[5]/u,Homeowners Associations,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[5]/u,Homeowners Associations,s_sst
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[5],". Except as would not have and would not reasonably be expected to have, individually or in the aggregate, a Company Material Adverse Effect, as of the date hereof, neither the Company nor any Company Subsidiary has “declarant” rights or effective control with respect to any Company Owned Real Property. Except as would not have and would not reasonably be expected to have, individually or in the aggregate, a Company Material Adverse Effect, as of the date hereof, neither Company nor any Company Subsidiary has received written notice from any Homeowners Association in which Company or any Company Subsidiary has “declarant” rights or effective control with respect to any Company Owned Real Property that it is in violation of any assessment obligations, bonds, restrictive covenants, Homeowner Association organizational documents and other documents adopted or entered into by Company or any Company Subsidiary in connection with the creation or operation of any Homeowner Association or that any such agreements and documents are in violation in any material respects with applicable Laws. Except as would not be material to the Company and the Company Subsidiaries taken as a whole, each Homeowner Association as to which Company or any Company Subsidiary has “declarant” rights or over which Company or any Company Subsidiary has had effective control, when operated by the Company or a Company Subsidiary, has been operated in accordance with Laws in all material respects.",,,o
-/html/body/document/type/sequence/filename/description/text/center[38]/div/p[6],4.20,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[6],4.20,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[38]/div/p[6],4.2,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[6],4.2,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[6]/u,Construction Matters,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[6]/u,Construction Matters,s_sst
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[6],". Except as would not have and would not reasonably be expected to have, individually or in the aggregate, a Company Material Adverse Effect, (i) the land, homes and other improvements sold by the Company and the Company Subsidiaries have at all times during the period of time in which the Company or the Company Subsidiaries have owned such land, homes and other improvements, complied with all applicable building codes, zoning,",,,o
 /html/body/document/type/sequence/filename/description/text/center[38]/div/p[8],-34-,/html/body/document/type/sequence/filename/description/text/center[38]/div/p[8],-34-,s_n
@@ -1280,13 +1280,13 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[2],5.9,/html/body/document/type/sequence/filename/description/text/center[44]/div/p[2],5.9,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[2]/u,Ownership of Merger Sub,/html/body/document/type/sequence/filename/description/text/center[44]/div/p[2]/u,Ownership of Merger Sub,s_sst
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[2],". All of the outstanding Equity Interests of Merger Sub have been duly authorized and validly issued and are wholly owned by Parent. Merger Sub was formed solely for purposes the Merger, the Offer, and the transactions contemplated by this Agreement, and, except for matters incidental to formation and execution and delivery of this Agreement and the performance of the transactions contemplated hereby, Merger Sub has not prior to the date hereof engaged in (and will not prior to the Effective Time engage in) any business or other activities other than those contemplated by this Agreement.",,,o
-/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],5.10,/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],5.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],5.1,/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],5.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[1],Solvency,/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[1],Solvency,s_sst
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],". Neither Parent nor Merger Sub is entering into this Agreement with the intent to hinder, delay or defraud either present or future creditors. Assuming (a) that the conditions to the obligations of Parent and Merger Sub to consummate the Offer and the Merger have been satisfied or waived and (b) the accuracy in all material respects of the representations and warranties set forth in",,,o
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[2],Article 4,,,o
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],", and after giving effect to the transactions contemplated by this Agreement and the payment of all amounts required to be paid in connection with the consummation of the transactions contemplated by this Agreement, including the aggregate Offer Price and Merger Consideration, any repayment or refinancing of debt contemplated in this Agreement and payment of all related fees and expenses of Parent and Merger Sub, the Surviving Corporation will be Solvent as of immediately after the consummation of the transactions contemplated by this Agreement. For purposes of this",,,o
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[3],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[5],5.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[5],5.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],", the term “",,,o
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3]/u[6],Solvent,,,o
 /html/body/document/type/sequence/filename/description/text/center[44]/div/p[3],"” with respect to the Surviving Corporation means that, as of any date of determination, (a) the amount of the fair value of the assets of the Surviving Corporation and its Subsidiaries, taken as a whole, at a fair valuation, exceeds, as of such date, the value of all liabilities of the Surviving Corporation and its Subsidiaries, taken as a whole, including contingent and other liabilities, as of such date, as such quoted terms are generally determined in accordance with the applicable Laws governing determinations of the solvency of debtors; (b) the present fair saleable value of the assets of the Surviving Corporation and its Subsidiaries, taken as a whole, exceeds, as of such date, the value of all probable liabilities of the Surviving Corporation and its Subsidiaries, taken as a whole, including contingent and other liabilities, as such debts and other liabilities become absolute and matured; (c) the Surviving Corporation will not have, as of such date, an unreasonably small amount of capital for the operation of the business in which it is engaged or proposed to be engaged by Parent following such date; and (d) the Surviving Corporation will be able to pay its liabilities, including contingent and other liabilities, as they mature.",,,o
@@ -1834,7 +1834,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[64]/div/p[2],6.9,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[2],6.9,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[64]/div/p[2]/u,Takeover Statutes,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[2]/u,Takeover Statutes,s_sst
 /html/body/document/type/sequence/filename/description/text/center[64]/div/p[2],". If any state takeover Law or state Law or any similar anti-takeover provision in the Company Charter or the Company Bylaws that purports to limit or restrict business combinations or the ability to acquire or vote Company Shares (including any “control share acquisition,” “fair price,” “moratorium,” “business combination” or other similar takeover Law) becomes or is deemed to be applicable to the Company, Parent, Merger Sub, this Agreement, the Merger, the Offer or any other transactions contemplated by this Agreement, then Parent, Merger Sub and the Company shall cooperate and take all action reasonably available to render such Law or provision inapplicable to the foregoing. Neither Parent, Merger Sub nor the Company will take any action that would cause this Agreement, the Merger, the Offer or the other transactions contemplated by this Agreement to be subject to the requirements imposed by any such Laws or provisions. No Company Change of Board Recommendation shall change the approval of the Company Board for purposes of causing any such Law or provision to be inapplicable to the transactions contemplated by this Agreement.",,,o
-/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3],6.10,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3],6.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3],6.1,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3],6.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[64]/div/p[3]/u[1],Section,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3]/u[1],Section,b_sst
 /html/body/document/type/sequence/filename/description/text/center[64]/div/p[3]/u[3],16,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3]/u[3],16,i_sst
 /html/body/document/type/sequence/filename/description/text/center[64]/div/p[3]/u[4],Matters,/html/body/document/type/sequence/filename/description/text/center[64]/div/p[3]/u[4],Matters,e_sst
@@ -2202,10 +2202,10 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[25],8.3,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3],",",,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[26],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[28],9.,,,o
+/html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[28],9,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3],"6,",,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[29],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[31],9.,,,o
+/html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[31],9,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3],7 and,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3]/u[32],Article 9,,,o
 /html/body/document/type/sequence/filename/description/text/center[77]/div/p[3],"of this Agreement and the Confidentiality Agreement shall remain in full force and effect and survive any termination of this Agreement, in each case, in accordance with and subject to their respective terms and conditions in all respects. Notwithstanding anything in this Agreement to the contrary, in no event will the Parent Related Parties, collectively, have any liability for monetary damages (including damages for fraud or breach, whether willful, intentional, unintentional or otherwise or monetary damages in lieu of specific performance) in the aggregate in excess of the Maximum Liability Amount and subject in all respects to",,,o
@@ -2334,7 +2334,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[1],Amendment,/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[1],Amendment,s_sst
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],". This Agreement may be amended at any time prior to the Effective Time only by execution of an instrument in writing signed by each of the Company, Parent and Merger Sub. Notwithstanding anything else to the contrary herein, no amendment, modification or alteration to the provisions set forth in",,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[2],Sections,,,o
-/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[3],8.,,,o
+/html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[3],8,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],2 and,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4]/u[4],8.3,,,o
 /html/body/document/type/sequence/filename/description/text/center[80]/div/p[4],"(solely to the extent relating to the Debt Financing Sources), this sentence of",,,o
@@ -3057,11 +3057,11 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[10]/td[1],SEC,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[10]/td[3],4.7(a),,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[11]/td[1],Section 16,,,o
-/html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[11]/td[3],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[11]/td[3],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[12]/td[1],Significant Company Subsidiary,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[12]/td[3],4.1(a),,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[13]/td[1],Solvent,,,o
-/html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[13]/td[3],5.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[13]/td[3],5.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[14]/td[1],Specified Stockholders,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[14]/td[3],Recitals,,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/table/tbody/tr[15]/td[1],Surviving Corporation,,,o
@@ -3076,7 +3076,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[2],9.9,/html/body/document/type/sequence/filename/description/text/center[100]/div/p[2],9.9,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[2]/u,Severability,/html/body/document/type/sequence/filename/description/text/center[100]/div/p[2]/u,Severability,s_sst
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[2],". If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of Law or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the transactions contemplated hereby is not affected in any manner materially adverse to any party. Upon such determination that any such term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in an mutually acceptable manner that will achieve, to the maximum extent possible, the economic, business and other purposes of such void or unenforceable provision.",,,o
-/html/body/document/type/sequence/filename/description/text/center[100]/div/p[3],9.10,/html/body/document/type/sequence/filename/description/text/center[100]/div/p[3],9.10,s_ssn
+/html/body/document/type/sequence/filename/description/text/center[100]/div/p[3],9.1,/html/body/document/type/sequence/filename/description/text/center[100]/div/p[3],9.1,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[3]/u,Entire Agreement,/html/body/document/type/sequence/filename/description/text/center[100]/div/p[3]/u,Entire Agreement,s_sst
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[3],". This Agreement (together with the Exhibits and Company Disclosure Letter and the other documents delivered pursuant hereto), the Tender and Support Agreements and the Confidentiality Agreement constitute the entire agreement of the parties and supersede all prior agreements (except the Confidentiality Agreement) and understandings, both written and oral, among the parties, or any of them, with respect to the subject matter hereof.",,,o
 /html/body/document/type/sequence/filename/description/text/center[100]/div/p[4],9.11,/html/body/document/type/sequence/filename/description/text/center[100]/div/p[4],9.11,s_ssn

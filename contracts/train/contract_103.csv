@@ -6,14 +6,14 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[2],EXECUTION VERSION,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"AVANGRID, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"AVANGRID, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"NM GREEN HOLDINGS, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"NM GREEN HOLDINGS, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"PNM RESOURCES, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"PNM RESOURCES, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"Dated as of October 20, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"Dated as of October 20, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"AVANGRID, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],"AVANGRID, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"NM GREEN HOLDINGS, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"NM GREEN HOLDINGS, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"PNM RESOURCES, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],"PNM RESOURCES, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"Dated as of October 20, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"Dated as of October 20, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[4]/td[1],Article I THE MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[4]/td[4],2,,,o
@@ -99,7 +99,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[60]/td[1]/p,SECTION 3.15,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[60]/td[3]/p/b,Tax Matters,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[60]/td[6],29,,,o
-/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[2],(continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[4]/td[1]/p,SECTION 3.16,,,o
@@ -185,7 +185,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[58]/td[3]/p/b,No Control of Other Party’s Business,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[58]/td[6],46,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[5],ii,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[5],ii,s_n
-/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],(continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[4]/td[1]/p,Article VI ADDITIONAL AGREEMENTS,,,o
@@ -274,7 +274,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[60]/td[3]/p/b,Expenses,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[60]/td[6],76,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[5],iii,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[5],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],(continued),,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[4]/td[1]/p,Article IX GENERAL PROVISIONS,,,o
@@ -329,7 +329,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[36]/td[3]/p/b,Interpretation,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[36]/td[6],89,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[5],iv,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[5],iv,s_n
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/u,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"This AGREEMENT AND PLAN OF MERGER, dated as of October 20, 2020 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"”), is entered into among Avangrid, Inc., a New York corporation (“",,,o
@@ -343,7 +343,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"” and each, a “",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/u[6],Party,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],”).,,,o
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/u,RECITALS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/u,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/u,RECITALS,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/u,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],"WHEREAS, the board of directors of the Company (the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4]/u[1],Company Board of Directors,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],"”), at a meeting duly called and held, has unanimously (i) determined, in good faith, that this Agreement and the transactions contemplated by this Agreement, including the merger of Merger Sub with and into the Company (the “",,,o
@@ -1299,7 +1299,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[29]/div/p[9],24,/html/body/document/type/sequence/filename/description/text/center[29]/div/p[9],24,s_n
 /html/body/document/type/sequence/filename/description/text/center[30]/div/p[1],"their respective properties or assets, other than, in each case, that has not had and would not reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect on the Company. Neither the Company nor any of its subsidiaries nor any of their respective properties is or are subject to any order, writ, judgment, injunction, decree or award except for those that have not had and would not reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect on the Company. This",,,o
 /html/body/document/type/sequence/filename/description/text/center[30]/div/p[1]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[30]/div/p[1]/u[3],3.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[30]/div/p[1]/u[3],3.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[30]/div/p[1],"does not relate to environmental matters, which are addressed in",,,o
 /html/body/document/type/sequence/filename/description/text/center[30]/div/p[1]/u[4],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[30]/div/p[1]/u[6],3.17,,,o
@@ -1405,7 +1405,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[1],"Tax Law) entered into prior to Closing, (C) installment sale or open transaction disposition occurring prior to Closing, (D) use of an improper method of accounting prior to Closing or (E) prepaid amount received, or deferred revenue accrued, prior to Closing.",,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2],Except to the extent that,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/u[3],3.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/u[3],3.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2],or,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/u[4],Section,,,o
 /html/body/document/type/sequence/filename/description/text/center[36]/div/p[2]/u[6],3.11,,,o
@@ -2137,7 +2137,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[2],"(j) From and after the Closing, Parent shall cause the Surviving Corporation or its subsidiaries, as applicable, to honor the terms of each Company Collective Bargaining Agreement until such Company Collective Bargaining Agreement otherwise expires pursuant to its terms or is modified by the parties thereto.",/html/body/document/type/sequence/filename/description/text/center[68]/div/p[2],(j),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[3],"(k) Notwithstanding any provision in this Agreement to the contrary, nothing in this",/html/body/document/type/sequence/filename/description/text/center[68]/div/p[3],(k),s_sssn
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[3]/u[1],Section,,,o
-/html/body/document/type/sequence/filename/description/text/center[68]/div/p[3]/u[3],6.10,,,o
+/html/body/document/type/sequence/filename/description/text/center[68]/div/p[3]/u[3],6.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[3],"shall (i) be deemed or construed to be an amendment or other modification of any Company Plan, (ii) prevent Parent, the Surviving Corporation or any Affiliate of Parent from amending or terminating any Company Plans in accordance with their terms, (iii) create any third-party rights in any current or former Company Employee or service provider of the Company or its Affiliates (or any beneficiaries or dependents thereof) or any collective bargaining representative of the Company or any Affiliate thereof or (iv) prevent Parent, the Surviving Corporation or any Affiliate of Parent from terminating the employment of any Continuing Employee for any reason.",,,o
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[4],SECTION 6.11,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4],SECTION 6.11,s_ssn
 /html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[1],Directors,/html/body/document/type/sequence/filename/description/text/center[68]/div/p[4]/b[1],Directors,b_sst

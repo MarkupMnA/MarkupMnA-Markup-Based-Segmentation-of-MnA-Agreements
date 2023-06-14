@@ -13,18 +13,18 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[3],LAN,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[3],LAN,i_t
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[4],OF,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[4],OF,i_t
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,M,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b,M,i_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[5],ERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[5],ERGER,e_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,B,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,B,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[5],ERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6]/b/small[5],ERGER,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,B,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,B,i_t
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[1],Y,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[1],Y,i_t
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[2],AND,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[2],AND,i_t
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,A,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,A,i_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[3],MONG,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[3],MONG,e_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"DEVON ENERGY CORPORATION,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"DEVON ENERGY CORPORATION,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"EAST MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"EAST MERGER SUB, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b/small,AND,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b/small,AND,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11]/b,"WPX ENERGY, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11]/b,"WPX ENERGY, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15]/b,"September 26, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15]/b,"September 26, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[3],MONG,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b/small[3],MONG,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"DEVON ENERGY CORPORATION,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8]/b,"DEVON ENERGY CORPORATION,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"EAST MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"EAST MERGER SUB, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b/small,AND,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10]/b/small,AND,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11]/b,"WPX ENERGY, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11]/b,"WPX ENERGY, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15]/b,"September 26, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15]/b,"September 26, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/div/table/tbody/tr[3]/td[1],ARTICLE I,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/div/table/tbody/tr[5]/td[1],THE MERGER,,,o
@@ -393,7 +393,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table[2]/tbody/tr[15]/td[1],Annex I,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table[2]/tbody/tr[15]/td[3],Index of Defined Terms,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[3],v,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3],v,s_n
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,Agreement and Plan of Merger,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,Agreement and Plan of Merger,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,Agreement and Plan of Merger,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,Agreement and Plan of Merger,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],This AGREEMENT AND PLAN OF MERGER (this “,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/b[1]/u,Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"”) is made and entered into on September 26, 2020, by and among Devon Energy Corporation, a Delaware corporation (“",,,o
@@ -403,7 +403,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],"”) and WPX Energy, Inc., a Delaware corporation (“",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2]/b[4]/u,East,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[2],”).,,,o
-/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,Recitals,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,Recitals,s_t
+/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,Recitals,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[3]/b,Recitals,s_st
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],"WHEREAS, Central, Merger Sub and East intend to effect a merger (the “",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4]/b[1]/u,Merger,,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[4],”) of Merger Sub with and into East in accordance with this Agreement and the General Corporation Law of the State of Delaware (the “,,,o
