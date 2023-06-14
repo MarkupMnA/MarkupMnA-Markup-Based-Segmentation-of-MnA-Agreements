@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name,Link to EDGAR Filing,Name in Dataset
 Acacia_Communications_Cisco_Systems,https://www.sec.gov/Archives/edgar/data/1651235/000119312521008768/d110570dex21.htm,contract_0
 Acceleron_Pharma_Inc_Merck_Co,https://www.sec.gov/Archives/edgar/data/1280600/000110465921120991/tm2128840d1_ex2-1.htm,contract_1
@@ -151,3 +152,158 @@ Weingarten Realty Investors_Kimco Realty Corporation,https://www.sec.gov/Archive
 Weingarten Realty Investors_Kimco Realty Corporation,https://www.sec.gov/Archives/edgar/data/828916/000119312521117294/d174639dex21.htm,contract_149
 Advanced Micro Devices,https://www.sec.gov/Archives/edgar/data/2488/000119312520277468/d67182dex21.htm,contract_150
 Zix_Corporation_Open_Text_Corporation,https://www.sec.gov/Archives/edgar/data/1002638/000119312521322445/d256142dex21.htm,contract_151
+=======
+Filename,Link to EDGAR Filing,Name in Dataset
+Acacia_Communications_Cisco_Systems.pdf,https://www.sec.gov/Archives/edgar/data/1651235/000119312521008768/d110570dex21.htm,contract_0
+Acceleron_Pharma_Inc_Merck_Co.pdf,https://www.sec.gov/Archives/edgar/data/1280600/000110465921120991/tm2128840d1_ex2-1.htm,contract_1
+Adamas_Pharmaceuticals_Supernus_Pharmaceuticals.pdf,https://www.sec.gov/Archives/edgar/data/1328143/000110465921124979/tm2129361d1_ex2-1.htm,contract_2
+"Aegion Corporation_New Mountain Capital, L.L.C..pdf",https://www.sec.gov/Archives/edgar/data/353020/000094787121000230/ss192505_ex0201.htm,contract_3
+"Alaska Communications Systems Group, Inc._Investment Group.pdf",https://www.sec.gov/Archives/edgar/data/1089511/000143774921000013/ex_219664.htm,contract_4
+"Alexion Pharmaceuticals, Inc._AstraZeneca PLC.pdf",www.sec.gov/Archives/edgar/data/899866/000114036120028237/nc10017928x1_ex2-1.htm,contract_5
+"Altabancorp_Glacier Bancorp, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1636286/000119312521166642/d758004dex21.htm,contract_6
+American_Renal_Associates_Holdings_IRC_Superman_Midco.pdf,https://www.sec.gov/Archives/edgar/data/1498068/000114036120022321/nc10015594x7_ex2-1.htm,contract_7
+Anworth Mortgage Asset Corporation_Ready Capital Corporation.pdf,https://www.sec.gov/Archives/edgar/data/1047884/000110465920133265/tm2037817d3_ex2-1.htm,contract_8
+At Home Group Inc._Hellman_Friedman LLC (A&R).pdf,https://www.sec.gov/Archives/edgar/data/1646228/000110465921082148/tm2119645d6_ex2-1.htm,contract_9
+"BMC Stock Holdings, Inc._Builders FirstSource, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1316835/000119312520233278/d89165dex21.htm,contract_10
+"Bank of Commerce Holdings_Columbia Banking System, Inc..pdf",https://www.sec.gov/Archives/edgar/data/887343/000119312521198112/d165081dex21.htm,contract_11
+"BioTelemetry, Inc._Koninklijke Philips N.V..pdf",https://www.sec.gov/Archives/edgar/data/1574774/000119312520323076/d18865dex21.htm,contract_12
+"Boingo Wireless, Inc._Digital Colony Partners, LP.pdf",https://www.sec.gov/Archives/edgar/data/1169988/000110465921029720/tm218232d1_ex2-1.htm,contract_13
+"Boston Private Financial Holdings, Inc._SVB Financial Group.pdf",https://www.sec.gov/Archives/edgar/data/821127/000114036121000609/nc10018581x5_ex2-1.htm,contract_14
+WSFS FINANCIAL CORPORATION,https://www.sec.gov/Archives/edgar/data/828944/000155278121000105/e21111_ex2-1.htm,contract_15
+"CAI International, Inc._Mitsubishi HC Capital Inc..pdf",https://www.sec.gov/Archives/edgar/data/1388430/000114036121021566/brhc10026007_ex2-1.htm,contract_16
+FIRST CITIZENS BANCSHARES,https://www.sec.gov/Archives/edgar/data/798941/000114036120023369/nc10015985x4_ex2-1.htm,contract_17
+Cadence Bancorporation_BancorpSouth Bank.pdf,https://www.sec.gov/Archives/edgar/data/1614184/000114036121013113/nc10023011x5_ex2-1.htm,contract_18
+Cantel Medical Corp._STERIS plc.pdf,https://www.sec.gov/Archives/edgar/data/19446/000110465921003484/tm212717d3_ex2-1.htm,contract_19
+Capstead_Mortgage_Corp_Benefit_Street_Partners.pdf,https://www.sec.gov/Archives/edgar/data/766701/000119312521223705/d182400dex21.htm,contract_20
+"Century Bancorp, Inc._Eastern Bankshares, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1810546/000119312521109240/d134323dex21.htm,contract_21
+"CHANGE HEALTHCARE INC., UNITEDHEALTH GROUP INCORPORATED",https://www.sec.gov/Archives/edgar/data/1756497/000119312521003258/d28897dex21.htm,contract_22
+"Chiasma, Inc._Amryt Pharma plc.pdf",https://www.sec.gov/Archives/edgar/data/1783010/000114036121015993/nc10024145x4_ex99-1.htm,contract_23
+Cimarex Energy Co._Cabot Oil & Gas Corporation.pdf,https://www.sec.gov/Archives/edgar/data/1168054/000110465921070744/tm2117341d1_ex2-1.htm,contract_24
+Cincinnati Bell Inc._Macquarie Infrastructure and Real Assets.pdf,https://www.sec.gov/Archives/edgar/data/716133/000095015720000363/ex2-1.htm,contract_25
+"Cloudera, Inc._Investment Group.pdf",https://www.sec.gov/Archives/edgar/data/1535379/000119312521177699/d168575dex21.htm,contract_26
+"COHERENT, INC",https://www.sec.gov/Archives/edgar/data/820318/000119312521095186/d130942dex21.htm ,contract_27
+"Collectors Universe, Inc._Investment Group.pdf",https://www.sec.gov/Archives/edgar/data/1089143/000119312521011984/d111927dex99d10.htm,contract_28
+Columbia_Property_Pacific_Investment_Management.pdf,https://www.sec.gov/Archives/edgar/data/1252849/000110465921113163/tm2127034d1_ex2-1.htm,contract_29
+"Community Bankers Trust Corporation_United Bankshares, Inc..pdf",https://www.sec.gov/Archives/edgar/data/729986/000119312521180597/d158023dex21.htm,contract_30
+Concho Resources Inc._ConocoPhillips.pdf,https://www.sec.gov/Archives/edgar/data/1163165/000110465920115818/tm2033409d1_ex2-1.htm,contract_31
+"Constellation Pharmaceuticals, Inc._MorphoSys AG.pdf",https://www.sec.gov/Archives/edgar/data/1434418/000119312521180005/d104875dex21.htm,contract_32
+Contango_Oil_&_Gas_KKR_&_Co.pdf,https://www.sec.gov/Archives/edgar/data/0001071993/000119312521185552/d170200dex21.htm,contract_33
+Cooper Tire _ Rubber Company_The Goodyear Tire _ Rubber Company.pdf,https://www.sec.gov/Archives/edgar/data/24491/000119312521054862/d140829dex21.htm,contract_34
+"Core-Mark Holding Company, Inc._Performance Food Group Company.pdf",https://www.sec.gov/Archives/edgar/data/1318084/000119312521164783/d170257dex21.htm,contract_35
+"CoreLogic, Inc._Investment Group.pdf",https://www.sec.gov/Archives/edgar/data/36047/000119312521031430/d339700dex21.htm,contract_36
+CoreSite_Realty_Corporation_American_Tower_Corporation.pdf,https://www.sec.gov/Archives/edgar/data/1490892/000110465921138523/tm2132912d2_ex2-1.htm,contract_37
+Cornerstone_OnDemand_Clearlake_Capital_Group_L_P.pdf,https://www.sec.gov/Archives/edgar/data/1401680/000119312521238137/d135195dex21.htm,contract_38
+"County Bancorp, Inc._Nicolet Bankshares, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1470205/000119312521195790/d204114dex21.htm,contract_39
+Covanta_Holding_Corporation_EQT_Holdings_AB.pdf,https://www.sec.gov/Archives/edgar/data/225648/000119312521216907/d163730dex21.htm,contract_40
+Cubic Corporation_Investment Group.pdf,https://www.sec.gov/Archives/edgar/data/26076/000110465921016321/tm215688d4_ex2-1.htm,contract_41
+DSP_Group_Synaptics_Incorporated.pdf,https://www.sec.gov/Archives/edgar/data/915778/000143774921021121/ex_279757.htm,contract_42
+Dicerna_Pharmaceuticals_Inc_Novo_Nordisk_A_S.pdf,https://www.sec.gov/Archives/edgar/data/1399529/000119312521333251/d260606dex21.htm,contract_43
+"Dime Community Bancshares, Inc._Bridge Bancorp, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1005409/000110465920080045/tm2023778d1_ex2-1.htm,contract_44
+Domtar Corporation_Paper Excellence Canada Group.pdf,https://www.sec.gov/Archives/edgar/data/1381531/000119312521158235/d918265dex21.htm,contract_45
+Eaton Vance Corp._Morgan Stanley.pdf,https://www.sec.gov/Archives/edgar/data/895421/000095010320019839/dp138497_ex0201.htm,contract_46
+Echo_Global_Logistics_The_Jordan_Company_L_P.pdf,https://www.sec.gov/Archives/edgar/data/1426945/000110465921114699/tm2127316d3_ex2-1.htm,contract_47
+"Eidos Therapeutics, Inc._BridgeBio Pharma, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1731831/000119312520264026/d84943dex991.htm,contract_48
+"Endurance International Group Holdings, Inc._Clearlake Capital Group, L.P..pdf",https://www.sec.gov/Archives/edgar/data/1237746/000119312520283967/d39280dex21.htm,contract_49
+"Extended Stay America, Inc._Investment Group.pdf",https://www.sec.gov/Archives/edgar/data/1507563/000114036121008551/brhc10021811_ex2-1.htm,contract_50
+"Extraction Oil _ Gas, Inc._Bonanza Creek Energy, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1655020/000110465921063454/tm2115703d1_ex2-1.htm,contract_51
+"FLIR Systems, Inc._Teledyne Technologies Incorporated.pdf",https://www.sec.gov/Archives/edgar/data/354908/000119312521002589/d57696dex21.htm,contract_52
+FERRO CORPORATION,https://www.sec.gov/Archives/edgar/data/35214/000003521421000013/foe-20210511xex2_1.htm,contract_53
+First Choice Bancorp_Enterprise Financial Services Corp.pdf,https://www.sec.gov/Archives/edgar/data/1025835/000102583521000061/exhibit21mergeragreement.htm,contract_54
+"Five Prime Therapeutics, Inc._Amgen Inc..pdf",https://www.sec.gov/Archives/edgar/data/1175505/000119312521068593/d77427dex21.htm,contract_55
+NEW YORK COMMUNITY BANCORP,https://www.sec.gov/Archives/edgar/data/910073/000119312521131914/d176004dex21.htm,contract_56
+Flexion_Therapeutics_Pacira_BioSciences.pdf,https://www.sec.gov/Archives/edgar/data/1396814/000110465921124889/tm2129703d1_ex2-1.htm,contract_57
+QUIKRETE HOLDINGS,https://www.sec.gov/Archives/edgar/data/1678463/000119312521049979/d136987dex21.htm,contract_58
+"Foundation Building Materials, Inc._American Securities LLC.pdf",https://www.sec.gov/Archives/edgar/data/1688941/000162828020016457/mergeragreementexhibit21.htm,contract_59
+Front Yard Residential Corporation_Investment Group.pdf,https://www.sec.gov/Archives/edgar/data/1555039/000119312520274044/d19211dex21.htm,contract_60
+GP_Strategies_Corp_Learning_Technologies_Group.pdf,https://www.sec.gov/Archives/edgar/data/0000070415/000119312521216121/d191882dex21.htm,contract_61
+"GenMark Diagnostics, Inc._Roche Holding Ltd.pdf",https://www.sec.gov/Archives/edgar/data/1487371/000119312521081510/d227861dex21.htm,contract_62
+"General Finance Corporation_United Rentals, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1047166/000110465921050987/tm2113073d1_ex2-1.htm,contract_63
+Glu Mobile Inc._Electronic Arts Inc..pdf,https://www.sec.gov/Archives/edgar/data/1366246/000110465921013687/tm215689d1_ex2-1.htm,contract_64
+Goodrich_Petroleum_Corporation_EnCap_Investments_L_P.pdf,https://www.sec.gov/Archives/edgar/data/943861/000110465921143036/tm2133621d3_ex2-1.htm,contract_65
+Grubhub Inc._Just Eat Takeaway.com N.V..pdf,https://www.sec.gov/Archives/edgar/data/1594109/000119312520167161/d941779dex21.htm,contract_66
+HMS Holdings Corp._Veritas Capital.pdf,https://www.sec.gov/Archives/edgar/data/1196501/000110465920139334/tm2038978d5_ex2-1.htm,contract_67
+"HighPoint Resources Corporation_Bonanza Creek Energy, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1725526/000119312520288553/d817673dex21.htm,contract_68
+Hill_Rom_Holdings~Baxter_International_Inc.pdf,https://www.sec.gov/Archives/edgar/data/10456/000119312521263688/d222750dex21.htm,contract_69
+IEC_Electronics_Corp_Lindsay_Goldberg_LLC.pdf,https://www.sec.gov/Archives/edgar/data/49728/000095012321010434/d171571dex21.htm,contract_70
+Iconix_Brand_Group_Lancer Capital.pdf,https://www.sec.gov/Archives/edgar/data/0000857737/000110465921080251/tm2119488d1_ex2-1.htm,contract_71
+Inovalon_Holdings_Management_Led_Buyout.pdf,https://www.sec.gov/Archives/edgar/data/1619954/000161995421000116/ex-21xmergeragreementfilin.htm,contract_72
+Inphi Corporation_Marvell Technology Group Ltd..pdf,https://www.sec.gov/Archives/edgar/data/1160958/000143774920022014/ex_209884.htm,contract_73
+J_Alexander_s_Holdings_Inc_SPB_Hospitality_LLC.pdf,https://www.sec.gov/Archives/edgar/data/1617227/000119312521208865/d199663dex21.htm,contract_74
+Kadmon_Holdings_Sanofi_SA_Merger_Agreement.pdf,https://www.sec.gov/Archives/edgar/data/1557142/000114036121030604/ny20000665x1_ex2-1.htm,contract_75
+Kansas_City_Southern_Canadian_Pacific_Railway.pdf,https://www.sec.gov/Archives/edgar/data/16875/000119312521274387/d590227dex21.htm,contract_76
+Kentucky_Bancshares_Stock_Yards_Bancorp.pdf,https://www.sec.gov/Archives/edgar/data/1000232/000155837021000494/ktyb-20210128xex2d1.htm,contract_77
+"Kindred Biosciences, Inc._Elanco Animal Health Incorporated.pdf",https://www.sec.gov/Archives/edgar/data/1739104/000110465921081752/tm2118507d3_ex2-1.htm,contract_78
+Knoll_Inc_Herman_Miller_Inc.pdf.pdf,https://www.sec.gov/Archives/edgar/data/1011570/000110465921053902/tm2113369d17_ex2-1.htm,contract_79
+Leaf Group Ltd._Graham Holdings Company.pdf,https://www.sec.gov/Archives/edgar/data/1365038/000110465921046320/tm2111917d1_ex2-1.htm,contract_80
+Lonestar_Resources_US_Inc_Penn_Virginia_Corporation.pdf,https://www.sec.gov/Archives/edgar/data/77159/000119312521213258/d179242dex21.htm,contract_81
+Luminex Corporation_DiaSorin S.p.A..pdf,https://www.sec.gov/Archives/edgar/data/1033905/000119312521112358/d147771dex21.htm,contract_82
+"Lydall, Inc._Clearlake Capital Group, L.P..pdf",https://www.sec.gov/Archives/edgar/data/60977/000110465921083816/tm2120305d1_ex2-1.htm ,contract_83
+MGM_Growth_Properties_LLC_VICI_Properties_Inc.pdf,https://www.sec.gov/Archives/edgar/data/60977/000110465921083816/tm2120305d1_ex2-1.htm ,contract_84
+MSG Networks Inc._Madison Square Garden Entertainment Corp..pdf,https://www.sec.gov/Archives/edgar/data/0001795250/000119312521096718/d101795dex21.htm,contract_85
+MTS Systems Corporation_Amphenol Corporation.pdf,https://www.sec.gov/Archives/edgar/data/68709/000149315220023207/ex2-1.htm,contract_86
+"Mackinac Financial Corporation_Nicolet Bankshares, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1174850/000117485021000018/exhibit21mergeragreement.htm,contract_87
+CENTENE CORPORATION,https://www.sec.gov/Archives/edgar/data/1071739/000114036121000086/brhc10018583_ex2-1.htm,contract_88
+MADEIRA HOLDINGS,https://www.sec.gov/Archives/edgar/data/1260968/000119312521121454/d153362dex21.htm,contract_89
+"Maxim Integrated Products, Inc._Analog Devices, Inc..pdf",https://www.sec.gov/Archives/edgar/data/743316/000119312520191603/d934276dex21.htm,contract_90
+Medallia_Inc_Thoma_Bravo_L_P.pdf,https://www.sec.gov/Archives/edgar/data/1540184/000119312521225759/d148042dex21.htm,contract_91
+"Meredith Corporation_Gray Television, Inc..pdf",https://www.sec.gov/Archives/edgar/data/65011/000119312521146844/d361418dex21.htm,contract_92
+"Meridian Bancorp, Inc._Independent Bank Corp..pdf",https://www.sec.gov/Archives/edgar/data/776901/000077690121000160/meridianmergeragreementfin.htm,contract_93
+Misonix_Inc_Bioventus_Inc.pdf,https://www.sec.gov/Archives/edgar/data/880432/000119312521229212/d158299dex21.htm,contract_94
+"NIC Inc._Tyler Technologies, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1065332/000114036121004118/nt10019848x2_ex2-1.htm,contract_95
+National General Holdings Corp._The Allstate Corporation.pdf,https://www.sec.gov/Archives/edgar/data/899051/000110465920081933/tm2024343d1_ex2-1.htm,contract_96
+Navistar International Corporation_TRATON SE.pdf,https://www.sec.gov/Archives/edgar/data/808450/000119312520288424/d810900dex21.htm,contract_97
+"New Senior Investment Group Inc._Ventas, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1610114/000119312521202400/d149997dex21.htm,contract_98
+New_Home_Co_Apollo_Global_Management.pdf,https://www.sec.gov/Archives/edgar/data/1574596/000119312521223612/d193271dex21.htm,contract_99
+MICROSOFT CORPORATION,https://www.sec.gov/Archives/edgar/data/1002517/000119312521113796/d100489dex21.htm,contract_100
+ORBCOMM Inc._GI Partners.pdf,https://www.sec.gov/Archives/edgar/data/1361983/000119312521113159/d46279dex21.htm,contract_101
+Oaktree_Strategic_Income_Oaktree_Fund_Advisors.pdf,https://www.sec.gov/Archives/edgar/data/0001577791/000119312520280348/d28714dex21.htm,contract_102
+AVANGRID,https://www.sec.gov/Archives/edgar/data/22767/000119312520273264/d77373dex21.htm,contract_103
+"PPD, Inc._Thermo Fisher Scientific Inc..pdf",https://www.sec.gov/Archives/edgar/data/1793294/000119312521119594/d154772dex21.htm,contract_104
+"PRA Health Sciences, Inc._ICON plc.pdf",https://www.sec.gov/Archives/edgar/data/1060955/000114036121006002/nc10020781x8_ex2-1.htm,contract_105
+"Pacific Mercantile Bancorp_Banc of California, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1169770/000119312521090238/d35268dex21.htm,contract_106
+"Pandion Therapeutics, Inc._Merck _ Co., Inc..pdf",https://www.sec.gov/Archives/edgar/data/1807901/000119312521055823/d61211dex21.htm,contract_107
+"Parsley Energy, Inc._Pioneer Natural Resources Company.pdf",https://www.sec.gov/Archives/edgar/data/1038357/000119312520273121/d35420dex21.htm,contract_108
+M&T BANK CORPORATION,https://www.sec.gov/Archives/edgar/data/1378946/000119312521057178/d109088dex21.htm,contract_109
+Perspecta Inc._Veritas Capital.pdf,https://www.sec.gov/Archives/edgar/data/1724670/000114036121002353/nc10019356x4_ex2-1.htm,contract_110
+"Pluralsight, Inc._Vista Equity Partners.pdf",https://www.sec.gov/Archives/edgar/data/1725579/000119312521073332/d101911dex21.htm,contract_111
+"Premier Financial Bancorp, Inc._Peoples Bancorp Inc..pdf",https://www.sec.gov/Archives/edgar/data/318300/000031830021000126/exhibit21mergeragreement.htm,contract_112
+Prevail Therapeutics Inc._Eli Lilly and Company.pdf,https://www.sec.gov/Archives/edgar/data/1714798/000119312520317624/d93250dex21.htm,contract_113
+"Proofpoint, Inc._Thoma Bravo, L.P..pdf",https://www.sec.gov/Archives/edgar/data/1212458/000119312521134422/d173752dex21.htm,contract_114
+Protective Insurance Corporation_The Progressive Corporation.pdf,https://www.sec.gov/Archives/edgar/data/9346/000000934621000009/exhibit2_1.htm,contract_115
+"QAD Inc._Thoma Bravo, L.P..pdf",https://www.sec.gov/Archives/edgar/data/1036188/000143774921015979/ex_260368.htm,contract_116
+"QEP Resources, Inc._Diamondback Energy, Inc..pdf",https://www.sec.gov/Archives/edgar/data/1539838/000119312520322296/d93715dex21.htm,contract_117
+"QTS Realty Trust, Inc._The Blackstone Group Inc..pdf",https://www.sec.gov/Archives/edgar/data/1577368/000110465921077790/tm2118899d4_ex2-1.htm,contract_118
+"Raven Industries, Inc._CNH Industrial N.V..pdf",https://www.sec.gov/Archives/edgar/data/1567094/000119312521194160/d171644dex992.htm,contract_119
+"RealPage, Inc._Thoma Bravo, L.P..pdf",https://www.sec.gov/Archives/edgar/data/1286225/000119312520322436/d24232dex21.htm,contract_120
+Retail_Properties_of_America_Inc_Kite_Realty_Group_Trust.pdf,https://www.sec.gov/Archives/edgar/data/1286043/000110465921093528/tm2122510d1_ex2-1.htm,contract_121
+"RigNet, Inc._Viasat, Inc..pdf",https://www.sec.gov/Archives/edgar/data/797721/000119312520322384/d16566dex21.htm,contract_122
+SEACOR Holdings Inc._American Industrial Partners.pdf,https://www.sec.gov/Archives/edgar/data/859598/000143774920024911/ex_216475.htm,contract_123
+Select_Bancorp_Inc_First_Bancorp.pdf,https://www.sec.gov/Archives/edgar/data/0001263762/000110465921075148/tm2118073d1_ex2-1.htm,contract_124
+Select_Interior_Concepts_Astro_Stone.pdf,https://www.sec.gov/Archives/edgar/data/1723866/000156459021042781/ck1723866-ex21_12.htm,contract_125
+"Slack Technologies, Inc._salesforce.com, inc..pdf",https://www.sec.gov/Archives/edgar/data/1764925/000119312520307385/d59995dex21.htm,contract_126
+"Soliton, Inc._AbbVie Inc..pdf",https://www.sec.gov/Archives/edgar/data/1548187/000119312521155738/d453060dex21.htm,contract_127
+Stamps_com_Inc_Thoma_Bravo_L_P.pdf,https://www.sec.gov/Archives/edgar/data/1082923/000114036121023951/brhc10026745_ex2-1.htm,contract_128
+Sterling_Bancorp_Webster_Financial_Corporation.pdf,https://www.sec.gov/Archives/edgar/data/1070154/000110465921053873/tm2113479d1_ex2-1.htm,contract_129
+"Sykes Enterprises, Incorporated_CREADEV.pdf",https://www.sec.gov/Archives/edgar/data/1010612/000119312521195097/d108904dex21.htm,contract_130
+TCF Financial Corporation_Huntington Bancshares Incorporated.pdf,https://www.sec.gov/Archives/edgar/data/19612/000001961220000240/mergeragreement.htm,contract_131
+TIFFANY_&_CO._LVMH_MOËT_HENNESSY-LOUIS_VUITTON.pdf,https://www.sec.gov/Archives/edgar/data/98246/000119312520280456/d91099dex21.htm,contract_132
+"Telenav, Inc._Management Led Buyout.pdf",https://www.sec.gov/Archives/edgar/data/1474439/000119312520284422/d50981dex21.htm,contract_133
+"The Michaels Companies, Inc._Apollo Global Management, LLC.pdf",https://www.sec.gov/Archives/edgar/data/1593936/000110465921031595/tm218586d1_ex2-1.htm,contract_134
+The_ExOne_Company~Desktop_Metal.pdf,https://www.sec.gov/Archives/edgar/data/1754820/000110465921104178/tm2124914d1_ex2-1.htm,contract_135
+Translate_Bio_Sanofi_SA.pdf,https://www.sec.gov/Archives/edgar/data/0001693415/000119312521234062/d191890dex21.htm,contract_136
+Tremont_Mortgage_Trust_RMR_Mortgage_Trust.pdf,https://www.sec.gov/Archives/edgar/data/1708405/000110465921055064/tm2114171d1_ex2-1.htm,contract_137
+Tribune Publishing Company_Alden Global Capital LLC.pdf,https://www.sec.gov/Archives/edgar/data/1593195/000095010321002425/dp146200_ex0201.htm,contract_138
+"U.S. Concrete, Inc._Vulcan Materials Company.pdf",https://www.sec.gov/Archives/edgar/data/1073429/000119312521183736/d190962dex21.htm,contract_139
+VEREIT_Realty_Income_Corporation.pdf,https://www.sec.gov/Archives/edgar/data/726728/000110465921058137/tm2114533d10_ex2-1.htm,contract_140
+"Varian Medical Systems, Inc._Siemens Healthineers AG.pdf",https://www.sec.gov/Archives/edgar/data/203527/000110465920089336/tm2026337d1_ex2-1.htm,contract_141
+"Viela Bio, Inc._Horizon Therapeutics Public Limited Company.pdf",https://www.sec.gov/Archives/edgar/data/1492426/000119312521023675/d57202dex21.htm,contract_142
+Vine_Energy_Inc_Chesapeake_Energy.pdf,https://www.sec.gov/Archives/edgar/data/1693853/000119312521243574/d204861dex21.htm,contract_143
+Virtusa Corporation_Baring Private Equity Asia.pdf,https://www.sec.gov/Archives/edgar/data/1207074/000110465920104049/tm2030571d1_ex2-1.htm,contract_144
+"WPX Energy, Inc._Devon Energy Corporation.pdf",https://www.sec.gov/Archives/edgar/data/1090012/000119312520255422/d23566dex21.htm,contract_145
+W_R_Grace_Co_40_North_Management_LLC.pdf,https://www.sec.gov/Archives/edgar/data/1045309/000114036121014342/nc10023607x3_ex2-1.htm,contract_146
+"Waddell _ Reed Financial, Inc._Macquarie Group Limited.pdf",https://www.sec.gov/Archives/edgar/data/1052100/000110465920132497/tm2037481d4_ex2-1.htm,contract_147
+Weingarten Realty Investors_Kimco Realty Corporation.pdf,https://www.sec.gov/Archives/edgar/data/828916/000119312521117294/d174639dex21.htm,contract_148
+Weingarten Realty Investors_Kimco Realty Corporation.pdf,https://www.sec.gov/Archives/edgar/data/828916/000119312521117294/d174639dex21.htm,contract_149
+ADVANCED MICRO DEVICES,https://www.sec.gov/Archives/edgar/data/2488/000119312520277468/d67182dex21.htm,contract_150
+Zix_Corporation_Open_Text_Corporation.pdf,https://www.sec.gov/Archives/edgar/data/1002638/000119312521322445/d256142dex21.htm,contract_151
+>>>>>>> b169f77308f93eac422004f0ccdd9204d06abb8a

@@ -6,14 +6,14 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[2],[EXECUTION VERSION],,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"dated as of April 15, 2021,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"dated as of April 15, 2021,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],among,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"THERMO FISHER SCIENTIFIC INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"THERMO FISHER SCIENTIFIC INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],POWDER ACQUISITION CORP.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],POWDER ACQUISITION CORP.,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"PPD, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"PPD, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"dated as of April 15, 2021,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],"dated as of April 15, 2021,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],among,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],among,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"THERMO FISHER SCIENTIFIC INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"THERMO FISHER SCIENTIFIC INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],POWDER ACQUISITION CORP.,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],POWDER ACQUISITION CORP.,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"PPD, INC.",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12],"PPD, INC.",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[4]/td[1],ARTICLE I,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[6]/td[1],The Merger,,,o
@@ -278,7 +278,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[33]/td[3],Financing Provisions,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table/tbody/tr[33]/td[6],88,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],iii,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1],INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1],INDEX OF DEFINED TERMS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1],INDEX OF DEFINED TERMS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1],INDEX OF DEFINED TERMS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[1]/p,Defined Term,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[2]/td[3]/p,Location of Definition,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/table/tbody/tr[3]/td[1],$,,,o
@@ -622,7 +622,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[28]/td[1],Written Consent,,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/table/tbody/tr[28]/td[3],Section 6.01(a),,,o
 /html/body/document/type/sequence/filename/description/text/center[8]/div/p[3],vii,/html/body/document/type/sequence/filename/description/text/center[8]/div/p[3],vii,s_n
-/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[9]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2],"AGREEMENT AND PLAN OF MERGER dated as of April 15, 2021 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[9]/div/p[2],"”), by and among Thermo Fisher Scientific Inc., a company organized under the laws of Delaware (“",,,o

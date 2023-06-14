@@ -5,16 +5,16 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EX-2.1 - MERIDIAN MERGER AGREEMENT,,,o
 /html/body/document/type/sequence/filename/description/text/title,Document,,,o
 /html/body/document/type/sequence/filename/description/text/div[2]/div[2]/font,Exhibit 2.1,,,o
-/html/body/document/type/sequence/filename/description/text/div[14]/font,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/div[14]/font,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/div[15]/font,"DATED AS OF APRIL 22, 2021",/html/body/document/type/sequence/filename/description/text/div[15]/font,"DATED AS OF APRIL 22, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/div[16]/font,BY AND AMONG,/html/body/document/type/sequence/filename/description/text/div[16]/font,BY AND AMONG,s_t
-/html/body/document/type/sequence/filename/description/text/div[17]/font,"INDEPENDENT BANK CORP.,",/html/body/document/type/sequence/filename/description/text/div[17]/font,"INDEPENDENT BANK CORP.,",s_t
-/html/body/document/type/sequence/filename/description/text/div[18]/font,"ROCKLAND TRUST COMPANY,",/html/body/document/type/sequence/filename/description/text/div[18]/font,"ROCKLAND TRUST COMPANY,",s_t
-/html/body/document/type/sequence/filename/description/text/div[19]/font,BRADFORD MERGER SUB INC.,/html/body/document/type/sequence/filename/description/text/div[19]/font,BRADFORD MERGER SUB INC.,s_t
-/html/body/document/type/sequence/filename/description/text/div[20]/font,"MERIDIAN BANCORP, INC.,",/html/body/document/type/sequence/filename/description/text/div[20]/font,"MERIDIAN BANCORP, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/div[21]/font,AND,/html/body/document/type/sequence/filename/description/text/div[21]/font,AND,s_t
-/html/body/document/type/sequence/filename/description/text/div[22]/font,EAST BOSTON SAVINGS BANK,/html/body/document/type/sequence/filename/description/text/div[22]/font,EAST BOSTON SAVINGS BANK,s_t
-/html/body/document/type/sequence/filename/description/text/div[28]/font,Table of Contents,/html/body/document/type/sequence/filename/description/text/div[28]/font,Table of Contents,s_t
+/html/body/document/type/sequence/filename/description/text/div[14]/font,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/div[14]/font,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/div[15]/font,"DATED AS OF APRIL 22, 2021",/html/body/document/type/sequence/filename/description/text/div[15]/font,"DATED AS OF APRIL 22, 2021",i_t
+/html/body/document/type/sequence/filename/description/text/div[16]/font,BY AND AMONG,/html/body/document/type/sequence/filename/description/text/div[16]/font,BY AND AMONG,i_t
+/html/body/document/type/sequence/filename/description/text/div[17]/font,"INDEPENDENT BANK CORP.,",/html/body/document/type/sequence/filename/description/text/div[17]/font,"INDEPENDENT BANK CORP.,",i_t
+/html/body/document/type/sequence/filename/description/text/div[18]/font,"ROCKLAND TRUST COMPANY,",/html/body/document/type/sequence/filename/description/text/div[18]/font,"ROCKLAND TRUST COMPANY,",i_t
+/html/body/document/type/sequence/filename/description/text/div[19]/font,BRADFORD MERGER SUB INC.,/html/body/document/type/sequence/filename/description/text/div[19]/font,BRADFORD MERGER SUB INC.,i_t
+/html/body/document/type/sequence/filename/description/text/div[20]/font,"MERIDIAN BANCORP, INC.,",/html/body/document/type/sequence/filename/description/text/div[20]/font,"MERIDIAN BANCORP, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/div[21]/font,AND,/html/body/document/type/sequence/filename/description/text/div[21]/font,AND,i_t
+/html/body/document/type/sequence/filename/description/text/div[22]/font,EAST BOSTON SAVINGS BANK,/html/body/document/type/sequence/filename/description/text/div[22]/font,EAST BOSTON SAVINGS BANK,e_t
+/html/body/document/type/sequence/filename/description/text/div[28]/font,Table of Contents,/html/body/document/type/sequence/filename/description/text/div[28]/font,Table of Contents,s_st
 /html/body/document/type/sequence/filename/description/text/div[29]/font,Page,,,o
 /html/body/document/type/sequence/filename/description/text/div[30]/table/tbody/tr[2]/td[1]/font,Article I THE TRANSACTIONS,,,o
 /html/body/document/type/sequence/filename/description/text/div[30]/table/tbody/tr[2]/td[2]/div/font/a,2,,,o
@@ -426,7 +426,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/div[46]/font[1],This,,,o
 /html/body/document/type/sequence/filename/description/text/div[46]/font[2],AGREEMENT AND PLAN OF MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/div[46]/font[3],"(this “Agreement”) is dated as of April 22, 2021, by and among Independent Bank Corp. (“Buyer”), Bradford Merger Sub Inc., a wholly owned subsidiary of Buyer (“Merger Sub”), Rockland Trust Company, a wholly owned subsidiary of Buyer (“Buyer Bank”), Meridian Bancorp, Inc. (“Company”), and East Boston Savings Bank, a wholly owned subsidiary of Company (“Company Bank”).  Capitalized terms used in this Agreement have the meaning set forth in Article VIII.",,,o
-/html/body/document/type/sequence/filename/description/text/div[47]/font,W I T N E S S E T H,/html/body/document/type/sequence/filename/description/text/div[47]/font,W I T N E S S E T H,s_t
+/html/body/document/type/sequence/filename/description/text/div[47]/font,W I T N E S S E T H,/html/body/document/type/sequence/filename/description/text/div[47]/font,W I T N E S S E T H,s_st
 /html/body/document/type/sequence/filename/description/text/div[48]/font[1],WHEREAS,,,o
 /html/body/document/type/sequence/filename/description/text/div[48]/font[2],", the boards of directors of Buyer, Buyer Bank, Company, Company Bank and Merger Sub have each (i) determined that this Agreement and the business combination and related transactions it contemplates are in the best interests of their respective entities and stockholders; and (ii) approved this Agreement;",,,o
 /html/body/document/type/sequence/filename/description/text/div[50]/font[1],WHEREAS,,,o

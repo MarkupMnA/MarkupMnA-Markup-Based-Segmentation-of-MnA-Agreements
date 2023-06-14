@@ -3,7 +3,7 @@
 [MarkupMnA: Markup-Based Segmentation of M&A Agreements]\
 Sukrit Rao, Pranab Islam, Rohith Bollineni, Shaan Khosla, Tingyi Fei, Qian Wu, Kyunghyun Cho, Vladimir A Kobzar
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8034853.svg)](https://doi.org/10.5281/zenodo.8034853)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8034852.svg)](https://doi.org/10.5281/zenodo.8034852)
 
 This repo contains:
 - The **MarkupMnA: Markup-Based Segmentation of M&A Agreements Dataset**

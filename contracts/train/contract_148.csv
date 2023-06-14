@@ -5,13 +5,13 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],by and between,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],by and between,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],KIMCO REALTY CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],KIMCO REALTY CORPORATION,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],WEINGARTEN REALTY INVESTORS,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],WEINGARTEN REALTY INVESTORS,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"Dated as of April 15, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"Dated as of April 15, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[4],AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],by and between,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5],by and between,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],KIMCO REALTY CORPORATION,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],KIMCO REALTY CORPORATION,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],WEINGARTEN REALTY INVESTORS,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],WEINGARTEN REALTY INVESTORS,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"Dated as of April 15, 2021",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9],"Dated as of April 15, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1]/b,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5]/b,Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,ARTICLE I MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],1,,,o
@@ -195,7 +195,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[31]/td[3],Terms Defined Elsewhere,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/table/tbody/tr[31]/td[6],99,,,o
 /html/body/document/type/sequence/filename/description/text/center[3]/div/p[2],-ii-,/html/body/document/type/sequence/filename/description/text/center[3]/div/p[2],-ii-,s_n
-/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],"This AGREEMENT AND PLAN OF MERGER, dated as of April 15, 2021 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[2],"”), is by and between Kimco Realty Corporation, a Maryland corporation (“",,,o

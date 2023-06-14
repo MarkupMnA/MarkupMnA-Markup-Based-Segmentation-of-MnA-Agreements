@@ -6,14 +6,14 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,ex_260368.htm,,,o
 /html/body/document/type/sequence/filename/description/text/p[1]/font/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/p[3]/b,Execution Version,,,o
-/html/body/document/type/sequence/filename/description/text/p[8]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[8]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/p[10]/b,BY AND AMONG,/html/body/document/type/sequence/filename/description/text/p[10]/b,BY AND AMONG,s_t
-/html/body/document/type/sequence/filename/description/text/p[12]/b,QAD Inc.,/html/body/document/type/sequence/filename/description/text/p[12]/b,QAD Inc.,s_t
-/html/body/document/type/sequence/filename/description/text/p[14]/b,"PROJECT QUICK PARENT, LLC",/html/body/document/type/sequence/filename/description/text/p[14]/b,"PROJECT QUICK PARENT, LLC",s_t
-/html/body/document/type/sequence/filename/description/text/p[16]/b,AND,/html/body/document/type/sequence/filename/description/text/p[16]/b,AND,s_t
-/html/body/document/type/sequence/filename/description/text/p[18]/b,"PROJECT QUICK MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/p[18]/b,"PROJECT QUICK MERGER SUB, INC.",s_t
-/html/body/document/type/sequence/filename/description/text/p[20]/b,"Dated as of June 27, 2021",/html/body/document/type/sequence/filename/description/text/p[20]/b,"Dated as of June 27, 2021",s_t
-/html/body/document/type/sequence/filename/description/text/p[28]/u,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/p[28]/u,TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/p[8]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[8]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/p[10]/b,BY AND AMONG,/html/body/document/type/sequence/filename/description/text/p[10]/b,BY AND AMONG,i_t
+/html/body/document/type/sequence/filename/description/text/p[12]/b,QAD Inc.,/html/body/document/type/sequence/filename/description/text/p[12]/b,QAD Inc.,i_t
+/html/body/document/type/sequence/filename/description/text/p[14]/b,"PROJECT QUICK PARENT, LLC",/html/body/document/type/sequence/filename/description/text/p[14]/b,"PROJECT QUICK PARENT, LLC",i_t
+/html/body/document/type/sequence/filename/description/text/p[16]/b,AND,/html/body/document/type/sequence/filename/description/text/p[16]/b,AND,i_t
+/html/body/document/type/sequence/filename/description/text/p[18]/b,"PROJECT QUICK MERGER SUB, INC.",/html/body/document/type/sequence/filename/description/text/p[18]/b,"PROJECT QUICK MERGER SUB, INC.",i_t
+/html/body/document/type/sequence/filename/description/text/p[20]/b,"Dated as of June 27, 2021",/html/body/document/type/sequence/filename/description/text/p[20]/b,"Dated as of June 27, 2021",e_t
+/html/body/document/type/sequence/filename/description/text/p[28]/u,TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/p[28]/u,TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[1]/td[1]/p,ARTICLE I DEFINITIONS,,,o
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[1]/td[2]/p,2,,,o
 /html/body/document/type/sequence/filename/description/text/table[1]/tbody/tr[2]/td[1]/p,Section 1.1,,,o
@@ -290,7 +290,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/table[3]/tbody/tr[24]/td[2]/p,Special Committee Approval,,,o
 /html/body/document/type/sequence/filename/description/text/table[3]/tbody/tr[24]/td[3]/p,77,,,o
 /html/body/document/type/sequence/filename/description/text/div[4]/div[1]/div/div,iii,/html/body/document/type/sequence/filename/description/text/div[4]/div[1]/div/div,iii,s_n
-/html/body/document/type/sequence/filename/description/text/p[36]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[36]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/p[36]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/p[36]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/p[38],"This AGREEMENT AND PLAN OF MERGER, dated as of June 27, 2021 (this “",,,o
 /html/body/document/type/sequence/filename/description/text/p[38]/u[1],Agreement,,,o
 /html/body/document/type/sequence/filename/description/text/p[38],”,,,o
@@ -304,7 +304,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/p[38],"” and, collectively with the Company and Parent, the “",,,o
 /html/body/document/type/sequence/filename/description/text/p[38]/u[5],Parties,,,o
 /html/body/document/type/sequence/filename/description/text/p[38],”).,,,o
-/html/body/document/type/sequence/filename/description/text/p[40]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/p[40]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/p[40]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/p[40]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/p[42],"WHEREAS, the Board of Directors of the Company (the “",,,o
 /html/body/document/type/sequence/filename/description/text/p[42]/u[1],Company Board,,,o
 /html/body/document/type/sequence/filename/description/text/p[42],”) established a special committee of independent and disinterested members of the Company Board (the “,,,o

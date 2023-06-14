@@ -6,17 +6,17 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/title,EX-2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[1]/b,Exhibit 2.1,,,o
 /html/body/document/type/sequence/filename/description/text/center[1]/div/p[4]/b,EXECUTION VERSION,,,o
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,AGREEMENT AND PLAN OF MERGER,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among:,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among:,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"ADVANCED MICRO DEVICES, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"ADVANCED MICRO DEVICES, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],a Delaware corporation;,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],a Delaware corporation;,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"THRONES MERGER SUB, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"THRONES MERGER SUB, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],a Delaware corporation;,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],a Delaware corporation;,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"XILINX, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"XILINX, INC.,",s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],a Delaware corporation,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],a Delaware corporation,s_t
-/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15],"Dated as of October 26, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15],"Dated as of October 26, 2020",s_t
-/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,s_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[5]/b,AGREEMENT AND PLAN OF MERGER,b_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among:,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[6],by and among:,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"ADVANCED MICRO DEVICES, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[7]/b,"ADVANCED MICRO DEVICES, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],a Delaware corporation;,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[8],a Delaware corporation;,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"THRONES MERGER SUB, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[9]/b,"THRONES MERGER SUB, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],a Delaware corporation;,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[10],a Delaware corporation;,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[11],and,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"XILINX, INC.,",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[12]/b,"XILINX, INC.,",i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],a Delaware corporation,/html/body/document/type/sequence/filename/description/text/center[1]/div/p[13],a Delaware corporation,i_t
+/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15],"Dated as of October 26, 2020",/html/body/document/type/sequence/filename/description/text/center[1]/div/p[15],"Dated as of October 26, 2020",e_t
+/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,/html/body/document/type/sequence/filename/description/text/center[2]/div/p[1],TABLE OF CONTENTS,s_st
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[2]/td[5],Page,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[1]/p,SECTION 1. THE MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[2]/div/table/tbody/tr[3]/td[4],2,,,o
@@ -331,7 +331,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[2]/tbody/tr[6]/td[1]/u,Exhibit B,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/table[2]/tbody/tr[6]/td[3],Form of Certificate of Incorporation of the Surviving Corporation,,,o
 /html/body/document/type/sequence/filename/description/text/center[4]/div/p[4],iii,/html/body/document/type/sequence/filename/description/text/center[4]/div/p[4],iii,s_n
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[1]/b,AGREEMENT AND PLAN OF MERGER,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/b,THIS AGREEMENT AND PLAN OF MERGER,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],(this “,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/u[1],Agreement,,,o
@@ -344,7 +344,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],”). Certain capitalized terms used in this Agreement are defined in,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2]/u[5],Exhibit A,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[2],.,,,o
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[3]/b,RECITALS,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4]/b,A.,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4],The parties intend that Acquisition Sub be merged with and into the Company (the “,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[4]/u[1],Merger,,,o
@@ -359,7 +359,7 @@ xpaths,text,highlighted_xpaths,highlighted_segmented_text,tagged_sequence
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[7],"The board of directors of Acquisition Sub has: (i) determined that it is advisable and in the best interests of Acquisition Sub and its sole stockholder for Acquisition Sub to enter into this Agreement; (ii) approved and declared advisable this Agreement and the transactions contemplated hereby, including the Merger; and (iii) recommended that its sole stockholder adopt this Agreement.",,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[8]/b,E.,,,o
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[8],"It is intended that, for U.S. federal income tax purposes, the Merger will qualify as a “reorganization” within the meaning of Section 368(a) of the Code and that this Agreement is hereby adopted as, a “plan of reorganization” for purposes of Sections 354 and 361 of the Code.",,,o
-/html/body/document/type/sequence/filename/description/text/center[5]/div/p[9]/b,AGREEMENT,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[9]/b,AGREEMENT,s_t
+/html/body/document/type/sequence/filename/description/text/center[5]/div/p[9]/b,AGREEMENT,/html/body/document/type/sequence/filename/description/text/center[5]/div/p[9]/b,AGREEMENT,s_st
 /html/body/document/type/sequence/filename/description/text/center[5]/div/p[10],"The parties to this Agreement, in consideration of the representations, warranties, covenants and agreements set forth herein and for other good and valuable consideration, the receipt and adequacy of which are hereby acknowledged, and intending to be legally bound, agree as follows:",,,o
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,SECTION 1. ,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,SECTION 1,s_sn
 /html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,THE MERGER,/html/body/document/type/sequence/filename/description/text/center[6]/div/p[1]/b,THE MERGER,s_st
