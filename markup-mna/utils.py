@@ -22,6 +22,13 @@ def ablation(config, inputs):
                 ii, torch.randperm(shuffling_dim), :
             ]
 
+    elif config["ablation"]["is_mask_text_exp"]:
+        # setting the text embedding to correponding pad tokens
+        text_pad_token = config["ablation"]["text_pad_token"]
+
+        # set the text embeddings to the pad token
+        inputs["input_ids"].fill_(text_pad_token)
+
     else:
         # setting the xpath embedding to correponding pad tokens
         xpath_tag_pad_token = config["ablation"]["xpath_tag_pad_token"]

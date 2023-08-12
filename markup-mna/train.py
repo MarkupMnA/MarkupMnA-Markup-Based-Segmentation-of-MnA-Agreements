@@ -17,6 +17,7 @@ from transformers import MarkupLMProcessor
 from transformers import MarkupLMForTokenClassification
 from transformers import set_seed
 
+from xdoc_modeling import Layoutlmv1ForTokenClassification
 
 import utils
 import input_pipeline
@@ -64,7 +65,11 @@ def run_train_loop(batch, model, optimizer, scheduler, loss_fct,
     outputs = model(**inputs)
 
     # get the logits, labels
-    logits = outputs.logits
+    try:
+        logits = outputs.logits
+    except AttributeError:
+        logits = outputs[-1]
+
     labels = inputs["labels"]
 
     # get the attention mask to determine valid tokens
@@ -90,7 +95,7 @@ def run_train_loop(batch, model, optimizer, scheduler, loss_fct,
 
     print("Train Loss:", loss.item())
 
-    predictions = outputs.logits.argmax(dim=-1)
+    predictions = logits.argmax(dim=-1)
     # labels = batch["labels"]
     preds, refs = utils.convert_preds_to_labels(predictions,
                                                 labels,
@@ -133,7 +138,12 @@ def run_eval_loop(dataloader, model, device,
         # forward + backward + optimize
         outputs = model(**inputs)
 
-        predictions = outputs.logits.argmax(dim=-1)
+        try:
+            logits = outputs.logits
+        except AttributeError:
+            logits = outputs[-1]
+
+        predictions = logits.argmax(dim=-1)
         labels = batch["labels"]
         preds, refs = utils.convert_preds_to_labels(predictions,
                                                     labels,
@@ -181,26 +191,51 @@ def main(config):
     print(f"Label only first subword: {config['model']['label_only_first_subword']}")
     print("*" * 50)
 
-    # define the processor and model
-    if config["model"]["use_large_model"]:
-        processor = MarkupLMProcessor.from_pretrained(
-            "microsoft/markuplm-large",
-            only_label_first_subword=config['model']['label_only_first_subword']
-        )
-        model = MarkupLMForTokenClassification.from_pretrained(
-            "microsoft/markuplm-large", id2label=id2label, label2id=label2id
-        )
+    # if more than one model flag is True raise an error
+    if int(config['model']['use_markuplm']) + \
+        int(config['model']['use_xdoc']) + \
+            int(config['model']['use_roberta']) >= 1:
+                raise Exception("only one model flag can be switched on at a time")
 
-    else:
+    # define the processor and model
+    if config['model']['use_markuplm']:
+        if config["model"]["use_large_model"]:
+            processor = MarkupLMProcessor.from_pretrained(
+                "microsoft/markuplm-large",
+                only_label_first_subword=config['model']['label_only_first_subword']
+            )
+            model = MarkupLMForTokenClassification.from_pretrained(
+                "microsoft/markuplm-large", id2label=id2label, label2id=label2id
+            )
+
+        else:
+            processor = MarkupLMProcessor.from_pretrained(
+                "microsoft/markuplm-base",
+                only_label_first_subword=config['model']['label_only_first_subword']
+            )
+            model = MarkupLMForTokenClassification.from_pretrained(
+                "microsoft/markuplm-base", id2label=id2label, label2id=label2id
+            )
+
+        processor.parse_html = False
+
+    elif config['model']['use_xdoc']:
         processor = MarkupLMProcessor.from_pretrained(
             "microsoft/markuplm-base",
             only_label_first_subword=config['model']['label_only_first_subword']
         )
-        model = MarkupLMForTokenClassification.from_pretrained(
-            "microsoft/markuplm-base", id2label=id2label, label2id=label2id
-        )
 
-    processor.parse_html = False
+        hidden_size = config['model']["xdoc_hidden_size"]
+
+        token_model = Layoutlmv1ForTokenClassification.from_pretrained("microsoft/xdoc-base-websrc")
+        token_model.classifier = nn.Linear(hidden_size, len(id2label))
+
+    elif config['model']['use_roberta']:
+        processor = MarkupLMProcessor.from_pretrained(
+            "microsoft/markuplm-base",
+            only_label_first_subword=config['model']['label_only_first_subword']
+        )
+        pass
 
     # convert the input dataset
     # to torch datasets. Create the dataloaders as well
