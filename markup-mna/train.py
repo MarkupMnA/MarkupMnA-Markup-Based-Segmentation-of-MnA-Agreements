@@ -15,6 +15,7 @@ from torch.utils.data import DataLoader
 
 from transformers import MarkupLMProcessor
 from transformers import MarkupLMForTokenClassification
+from transformers import RobertaForTokenClassification
 from transformers import set_seed
 
 from xdoc_modeling import Layoutlmv1ForTokenClassification
@@ -31,7 +32,8 @@ set_seed(42)
 
 
 def run_train_loop(batch, model, optimizer, scheduler, loss_fct,
-                   device, train_metric, label_list, config, idx):
+                   device, train_metric, label_list, config, idx,
+                   **kwargs):
     '''Runs train loop for one batch of input
 
     Args:
@@ -50,8 +52,17 @@ def run_train_loop(batch, model, optimizer, scheduler, loss_fct,
     Returns:
         None
     '''
-    # get the inputs
-    inputs = {k: v.to(device) for k, v in batch.items()}
+
+    use_xpath = kwargs.get('use_xpath')
+    if use_xpath is None:
+        use_xpath = True
+
+    # get the inputs;
+    inputs = {k:v.to(device) for k,v in batch.items()}
+
+    if not use_xpath:
+        inputs.pop("xpath_tags_seq")
+        inputs.pop("xpath_subs_seq")
 
     # if ablation mode is set to true then
     # either mask the xpaths or shuffle them
@@ -111,7 +122,8 @@ def run_train_loop(batch, model, optimizer, scheduler, loss_fct,
 
 
 def run_eval_loop(dataloader, model, device,
-                  metric, label_list, config):
+                  metric, label_list, config,
+                  **kwargs):
     '''Runs eval loop for entire dataset
 
     Args:
@@ -126,9 +138,17 @@ def run_eval_loop(dataloader, model, device,
         None
     '''
     model.eval()
+    use_xpath = kwargs.get('use_xpath')
+    if use_xpath is None:
+        use_xpath = True
+
     for batch in tqdm(dataloader, desc='eval_loop'):
         # get the inputs;
         inputs = {k: v.to(device) for k, v in batch.items()}
+
+        if not use_xpath:
+            inputs.pop("xpath_tags_seq")
+            inputs.pop("xpath_subs_seq")
 
         # if ablation mode is set to true then
         # either mask the xpaths or shuffle them
@@ -160,6 +180,7 @@ def main(config):
     # get the  list of labels along with the label to id mapping and
     # reverse mapping
     label_list, id2label, label2id = utils.get_label_list(config)
+    num_labels = len(id2label)
 
     print("*" * 50)
     print('Prepared Label List. Preparing Training Data ')
@@ -194,7 +215,7 @@ def main(config):
     # if more than one model flag is True raise an error
     if int(config['model']['use_markuplm']) + \
         int(config['model']['use_xdoc']) + \
-            int(config['model']['use_roberta']) >= 1:
+            int(config['model']['use_roberta']) > 1:
                 raise Exception("only one model flag can be switched on at a time")
 
     # define the processor and model
@@ -218,24 +239,36 @@ def main(config):
             )
 
         processor.parse_html = False
+        use_xpath = True
 
     elif config['model']['use_xdoc']:
         processor = MarkupLMProcessor.from_pretrained(
             "microsoft/markuplm-base",
             only_label_first_subword=config['model']['label_only_first_subword']
         )
+        processor.parse_html = False
 
         hidden_size = config['model']["xdoc_hidden_size"]
 
-        token_model = Layoutlmv1ForTokenClassification.from_pretrained("microsoft/xdoc-base-websrc")
-        token_model.classifier = nn.Linear(hidden_size, len(id2label))
+        model = Layoutlmv1ForTokenClassification.from_pretrained("microsoft/xdoc-base-websrc")
+        model.classifier = nn.Linear(hidden_size, num_labels)
+
+        use_xpath = True
 
     elif config['model']['use_roberta']:
         processor = MarkupLMProcessor.from_pretrained(
             "microsoft/markuplm-base",
             only_label_first_subword=config['model']['label_only_first_subword']
         )
-        pass
+        processor.parse_html = False
+
+        hidden_size = config['model']["roberta_hidden_size"]
+
+        model = RobertaForTokenClassification.from_pretrained("roberta-base")
+        model.classifier = nn.Linear(hidden_size, num_labels)
+        model.num_labels = num_labels
+
+        use_xpath = False
 
     # convert the input dataset
     # to torch datasets. Create the dataloaders as well
@@ -308,11 +341,13 @@ def main(config):
                                      desc='train_loop',
                                      total=len(train_dataloader)):
             run_train_loop(train_batch, model, optimizer, scheduler, loss_fct,
-                           device, train_metric, label_list, config, idx)
+                           device, train_metric, label_list, config, idx,
+                           use_xpath=use_xpath)
 
         # run eval loop
         run_eval_loop(eval_dataloader, model, device,
-                      eval_metric, label_list, config)
+                      eval_metric, label_list, config,
+                      use_xpath=use_xpath)
 
         # compute the metrics at the end of each epoch
         train_metrics = utils.compute_metrics(train_metric)

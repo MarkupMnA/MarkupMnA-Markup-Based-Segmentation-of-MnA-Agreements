@@ -61,9 +61,11 @@ model:
 
   # for markuplm
   use_large_model: false
+
   label_only_first_subword: true
 
   xdoc_hidden_size: 768
+  roberta_hidden_size: 768
 
   train_batch_size: 8
   eval_batch_size: 8
