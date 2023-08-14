@@ -14,7 +14,10 @@ from torch.optim import AdamW
 from torch.utils.data import DataLoader
 from transformers import MarkupLMProcessor
 from transformers import MarkupLMForTokenClassification
+from transformers import RobertaForTokenClassification
 from transformers import set_seed
+
+from xdoc_modeling import Layoutlmv1ForTokenClassification
 
 from sklearn.metrics import auc
 from sklearn.metrics import precision_recall_curve
@@ -31,7 +34,7 @@ print(f"Using device {device}")
 set_seed(42)
 
 
-def get_valid_pred_ids(label2id, id2label, curr_pred_id, debug=False):
+def get_valid_pred_ids(label2id, id2label, curr_pred_id, debug=True):
     '''Creates a mask of valid label ids during inference
 
     Args:
@@ -146,7 +149,8 @@ def compute_auprc(all_labels_bin,
 def get_batch_pred(batch, model, device,
                    metric, label_list,
                    label2id, id2label, config,
-                   debug=False):
+                   debug=True,
+                   **kwargs):
     '''Runs inference loop for one batch of input
 
     Args:
@@ -162,8 +166,15 @@ def get_batch_pred(batch, model, device,
         preds: np.array. Pred tensor for valid token ids for single batch
         refs: np.array. Label vector for valid token ids for single batch
     '''
+    use_xpath = kwargs.get('use_xpath')
+    if use_xpath is None:
+        use_xpath = True
+
     # get the inputs;
     inputs = {k: v.to(device) for k, v in batch.items()}
+    if not use_xpath:
+        inputs.pop("xpath_tags_seq")
+        inputs.pop("xpath_subs_seq")
 
     # if ablation mode is set to true then
     # either mask the xpaths or shuffle them
@@ -174,7 +185,11 @@ def get_batch_pred(batch, model, device,
     outputs = model(**inputs)
 
     # get the logits and predicted classes
-    logits = outputs.logits
+    try:
+        logits = outputs.logits
+    except AttributeError:
+        logits = outputs[-1]
+
     labels = batch["labels"]
 
     # get the preds and labels corresponding to valid tokens
@@ -192,15 +207,13 @@ def get_batch_pred(batch, model, device,
     outside_label = label2id['o']
     modified_preds = []
     for ii in range(seq_length):
-
         valid_preds = preds[ii] * pred_mask
         curr_pred_id = valid_preds.argmax()
         modified_preds.append(curr_pred_id)
 
         if debug:
             print("*" * 50)
-            print(f'ii= {ii} curr_pred = {curr_pred_id}')
-            print(f'ii= {ii} pred_mask = {pred_mask}')
+            print(f'index ii = {ii} curr_pred_id = {curr_pred_id}; curr_pred_label: {id2label[curr_pred_id]} curr_gt: {id2label[refs[ii]]}')
 
         # if the curr_pred is the outside label then
         # continue to the next pred
@@ -208,15 +221,18 @@ def get_batch_pred(batch, model, device,
 
             # get the mask for the next pred label
             pred_mask = np.ones(num_classes)
-            continue
 
         else:
             # get the mask for the next pred label
             pred_mask = get_valid_pred_ids(label2id, id2label,
                                            curr_pred_id,
-                                           debug=False)
+                                           debug=debug)
 
         if debug:
+            print("*" * 50)
+            print(f'index ii = {ii} curr_pred_id = {curr_pred_id}; curr_pred_label: {id2label[curr_pred_id]} curr_gt: {id2label[refs[ii]]}')
+            print(f'index ii= {ii} pred_mask = {pred_mask}')
+
             print("*" * 50)
 
     str_preds = [[id2label[pred_id] for pred_id in modified_preds]]
@@ -234,7 +250,8 @@ def get_batch_pred(batch, model, device,
 def run_inference_loop(dataloader, model, device,
                        metric, label_list,
                        label2id, id2label, config,
-                       class_weights):
+                       class_weights, debug=True,
+                       use_xpath=True):
     '''Runs inference loop for entire dataset and saves metrics to disk
 
     Args:
@@ -255,7 +272,9 @@ def run_inference_loop(dataloader, model, device,
     for batch in tqdm(dataloader, desc='inference_loop'):
         preds, refs = get_batch_pred(batch, model, device,
                                      metric, label_list,
-                                     label2id, id2label, config)
+                                     label2id, id2label, config,
+                                     debug=debug,
+                                     use_xpath=use_xpath)
 
         all_preds.append(preds)
         all_labels.append(refs)
@@ -330,6 +349,7 @@ def main(config):
     # get the  list of labels along with the label to id mapping and
     # reverse mapping
     label_list, id2label, label2id = utils.get_label_list(config)
+    num_labels = len(label_list)
 
     print("*" * 50)
     print('Prepared Label List. Preparing Test Data ')
@@ -346,26 +366,63 @@ def main(config):
     print(f"Label only first subword: {config['model']['label_only_first_subword']}")
     print("*" * 50)
 
-    # define the processor and model
-    if config["model"]["use_large_model"]:
-        processor = MarkupLMProcessor.from_pretrained(
-            "microsoft/markuplm-large",
-            only_label_first_subword=config['model']['label_only_first_subword']
-        )
-        model = MarkupLMForTokenClassification.from_pretrained(
-            "microsoft/markuplm-large", id2label=id2label, label2id=label2id
-        )
+    # if more than one model flag is True raise an error
+    if int(config['model']['use_markuplm']) + \
+        int(config['model']['use_xdoc']) + \
+            int(config['model']['use_roberta']) > 1:
+                raise Exception("only one model flag can be switched on at a time")
 
-    else:
+    # define the processor and model
+    if config['model']['use_markuplm']:
+        if config["model"]["use_large_model"]:
+            processor = MarkupLMProcessor.from_pretrained(
+                "microsoft/markuplm-large",
+                only_label_first_subword=config['model']['label_only_first_subword']
+            )
+            model = MarkupLMForTokenClassification.from_pretrained(
+                "microsoft/markuplm-large", id2label=id2label, label2id=label2id
+            )
+
+        else:
+            processor = MarkupLMProcessor.from_pretrained(
+                "microsoft/markuplm-base",
+                only_label_first_subword=config['model']['label_only_first_subword']
+            )
+            model = MarkupLMForTokenClassification.from_pretrained(
+                "microsoft/markuplm-base", id2label=id2label, label2id=label2id
+            )
+
+        processor.parse_html = False
+        use_xpath = True
+
+    elif config['model']['use_xdoc']:
         processor = MarkupLMProcessor.from_pretrained(
             "microsoft/markuplm-base",
             only_label_first_subword=config['model']['label_only_first_subword']
         )
-        model = MarkupLMForTokenClassification.from_pretrained(
-            "microsoft/markuplm-base", id2label=id2label, label2id=label2id
-        )
+        processor.parse_html = False
 
-    processor.parse_html = False
+        hidden_size = config['model']["xdoc_hidden_size"]
+
+        model = Layoutlmv1ForTokenClassification.from_pretrained("microsoft/xdoc-base-websrc")
+        model.classifier = nn.Linear(hidden_size, num_labels)
+
+        use_xpath = True
+
+    elif config['model']['use_roberta']:
+        processor = MarkupLMProcessor.from_pretrained(
+            "microsoft/markuplm-base",
+            only_label_first_subword=config['model']['label_only_first_subword']
+        )
+        processor.parse_html = False
+
+        hidden_size = config['model']["roberta_hidden_size"]
+
+        model = RobertaForTokenClassification.from_pretrained("roberta-base")
+        model.classifier = nn.Linear(hidden_size, num_labels)
+        model.num_labels = num_labels
+
+        use_xpath = False
 
     # reload the model
     model_load_path = config['predict']['model_path']
@@ -409,7 +466,9 @@ def main(config):
 
     run_inference_loop(test_dataloader, model, device,
                        test_metric, label_list,
-                       label2id, id2label, config, class_weights)
+                       label2id, id2label, config, class_weights,
+                       debug=False ,
+                       use_xpath=use_xpath)
 
     return
 

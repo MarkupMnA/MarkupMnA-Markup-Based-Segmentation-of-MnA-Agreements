@@ -14,11 +14,15 @@ from torch.optim import AdamW
 from torch.utils.data import DataLoader
 from transformers import MarkupLMProcessor
 from transformers import MarkupLMForTokenClassification
+from transformers import RobertaForTokenClassification
 from transformers import set_seed
+
+from xdoc_modeling import Layoutlmv1ForTokenClassification
 
 from sklearn.metrics import auc
 from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import average_precision_score
+from sklearn.metrics import confusion_matrix
 import matplotlib.pyplot as plt
 
 import utils
@@ -88,7 +92,8 @@ def compute_auprc(all_labels_bin,
 
 
 def get_batch_pred(batch, model, device,
-                   metric, label_list, config):
+                   metric, label_list, config,
+                   **kwargs):
     '''Runs inference loop for one batch of input
 
     Args:
@@ -105,7 +110,14 @@ def get_batch_pred(batch, model, device,
         refs: np.array. Label vector for valid token ids for single batch
     '''
     # get the inputs;
+    use_xpath = kwargs.get('use_xpath')
+    if use_xpath is None:
+        use_xpath = True
+
     inputs = {k: v.to(device) for k, v in batch.items()}
+    if not use_xpath:
+        inputs.pop("xpath_tags_seq")
+        inputs.pop("xpath_subs_seq")
 
     # if ablation mode is set to true then
     # either mask the xpaths or shuffle them
@@ -116,7 +128,11 @@ def get_batch_pred(batch, model, device,
     outputs = model(**inputs)
 
     # get the logits and predicted classes
-    logits = outputs.logits
+    try:
+        logits = outputs.logits
+    except AttributeError:
+        logits = outputs[-1]
+
     labels = batch["labels"]
 
     # get the str repr of the predictions and labels. Used for
@@ -143,7 +159,7 @@ def get_batch_pred(batch, model, device,
 
 def run_inference_loop(dataloader, model, device,
                        metric, label_list, config,
-                       class_weights):
+                       class_weights, use_xpath=True):
     '''Runs inference loop for entire dataset and saves metrics to disk
 
     Args:
@@ -163,13 +179,30 @@ def run_inference_loop(dataloader, model, device,
     all_preds, all_labels = [], []
     for batch in tqdm(dataloader, desc='inference_loop'):
         preds, refs = get_batch_pred(batch, model, device,
-                                     metric, label_list, config)
+                                     metric, label_list, config,
+                                     use_xpath=use_xpath)
         all_preds.append(preds)
         all_labels.append(refs)
 
     # concat the preds and label for each batch into single tensor
     all_preds = np.concatenate(all_preds)
     all_labels = np.concatenate(all_labels)
+
+    print(f"al_preds={all_preds.shape}")
+    print(f"al_preds={all_preds.argmax(axis=1).shape}")
+    print(f"all_labels={all_labels.shape}")
+
+    conf_matrix = confusion_matrix(y_true=all_labels,
+                                   y_pred=all_preds.argmax(axis=1),
+                                   labels=list(range(45)))
+
+
+    display(conf_matrix)
+    conf_matrix = pd.DataFrame(conf_matrix,
+                               index=label_list,
+                               columns=label_list)
+
+    display(conf_matrix)
 
     # binarize the labels
     all_labels_bin = np.eye(len(label_list))[all_labels]
@@ -181,6 +214,9 @@ def run_inference_loop(dataloader, model, device,
     metric_basename = os.path.basename(metric_basename).rsplit('.')[0]
     metric_basename = os.path.join(config['model']['collateral_dir'],
                                    metric_basename)
+
+    # save the confusion matrix
+    conf_matrix.to_csv(f'{metric_basename}_cfm.csv', index=True, header=True)
 
     # compute the area under precision-recall curve
     macro_auprc, weighted_auprc = compute_auprc(all_labels_bin, all_preds,
@@ -235,6 +271,7 @@ def main(config):
     # get the  list of labels along with the label to id mapping and
     # reverse mapping
     label_list, id2label, label2id = utils.get_label_list(config)
+    num_labels = len(label_list)
 
     print("*" * 50)
     print('Prepared Label List. Preparing Test Data ')
@@ -251,26 +288,63 @@ def main(config):
     print(f"Label only first subword: {config['model']['label_only_first_subword']}")
     print("*" * 50)
 
-    # define the processor and model
-    if config["model"]["use_large_model"]:
-        processor = MarkupLMProcessor.from_pretrained(
-            "microsoft/markuplm-large",
-            only_label_first_subword=config['model']['label_only_first_subword']
-        )
-        model = MarkupLMForTokenClassification.from_pretrained(
-            "microsoft/markuplm-large", id2label=id2label, label2id=label2id
-        )
+    # if more than one model flag is True raise an error
+    if int(config['model']['use_markuplm']) + \
+        int(config['model']['use_xdoc']) + \
+            int(config['model']['use_roberta']) > 1:
+                raise Exception("only one model flag can be switched on at a time")
 
-    else:
+    # define the processor and model
+    if config['model']['use_markuplm']:
+        if config["model"]["use_large_model"]:
+            processor = MarkupLMProcessor.from_pretrained(
+                "microsoft/markuplm-large",
+                only_label_first_subword=config['model']['label_only_first_subword']
+            )
+            model = MarkupLMForTokenClassification.from_pretrained(
+                "microsoft/markuplm-large", id2label=id2label, label2id=label2id
+            )
+
+        else:
+            processor = MarkupLMProcessor.from_pretrained(
+                "microsoft/markuplm-base",
+                only_label_first_subword=config['model']['label_only_first_subword']
+            )
+            model = MarkupLMForTokenClassification.from_pretrained(
+                "microsoft/markuplm-base", id2label=id2label, label2id=label2id
+            )
+
+        processor.parse_html = False
+        use_xpath = True
+
+    elif config['model']['use_xdoc']:
         processor = MarkupLMProcessor.from_pretrained(
             "microsoft/markuplm-base",
             only_label_first_subword=config['model']['label_only_first_subword']
         )
-        model = MarkupLMForTokenClassification.from_pretrained(
-            "microsoft/markuplm-base", id2label=id2label, label2id=label2id
-        )
+        processor.parse_html = False
 
-    processor.parse_html = False
+        hidden_size = config['model']["xdoc_hidden_size"]
+
+        model = Layoutlmv1ForTokenClassification.from_pretrained("microsoft/xdoc-base-websrc")
+        model.classifier = nn.Linear(hidden_size, num_labels)
+
+        use_xpath = True
+
+    elif config['model']['use_roberta']:
+        processor = MarkupLMProcessor.from_pretrained(
+            "microsoft/markuplm-base",
+            only_label_first_subword=config['model']['label_only_first_subword']
+        )
+        processor.parse_html = False
+
+        hidden_size = config['model']["roberta_hidden_size"]
+
+        model = RobertaForTokenClassification.from_pretrained("roberta-base")
+        model.classifier = nn.Linear(hidden_size, num_labels)
+        model.num_labels = num_labels
+
+        use_xpath = False
 
     # reload the model
     model_load_path = config['predict']['model_path']
@@ -314,7 +388,8 @@ def main(config):
 
     run_inference_loop(test_dataloader, model, device,
                        test_metric, label_list, config,
-                       class_weights)
+                       class_weights,
+                       use_xpath=use_xpath)
 
     return
 

@@ -28,7 +28,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device {device}")
 
 # set the seed for the hugggingface package
-set_seed(42)
+# set_seed(42)
 
 
 def run_train_loop(batch, model, optimizer, scheduler, loss_fct,

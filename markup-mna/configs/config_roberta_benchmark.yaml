@@ -70,16 +70,16 @@ model:
   train_batch_size: 8
   eval_batch_size: 8
 
-  num_epochs: 10
-  learning_rate: 5.0e-5
+  num_epochs: 50
+  learning_rate: 2.0e-5
 
   # index to ignore in the loss_fn
   ignore_index: -100
   max_length: 512
 
   collateral_dir: ../collateral/roberta_benchmark/
-  model_savepath: roberta_run1.pt
-  early_stop_patience: 3
+  model_savepath: roberta_run2.pt
+  early_stop_patience: 10
 
 ablation:
   run_ablation: false
@@ -88,6 +88,6 @@ ablation:
   xpath_subs_pad_token: 1001
 
 predict:
-  model_path: null
+  model_path: ../collateral/roberta_benchmark/ckpt/roberta_run2_epoch-4_f1-0.847.pt
 
 ...

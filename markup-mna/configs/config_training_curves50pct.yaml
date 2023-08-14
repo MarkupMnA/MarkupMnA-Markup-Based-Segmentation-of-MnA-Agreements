@@ -55,13 +55,22 @@ data:
     - s_sssst
 
 model:
+  use_markuplm: true
+  use_xdoc: false
+  use_roberta: false
+
+  # for markuplm
   use_large_model: false
+
   label_only_first_subword: true
 
-  train_batch_size: 16
+  xdoc_hidden_size: 768
+  roberta_hidden_size: 768
+
+  train_batch_size: 8
   eval_batch_size: 8
 
-  num_epochs: 40
+  num_epochs: 50
   learning_rate: 2.0e-5
 
   # index to ignore in the loss_fn
@@ -69,7 +78,7 @@ model:
   max_length: 512
 
   collateral_dir: ../collateral/training_curves/
-  model_savepath: markuplm_model_run2_num_contract-50pct.pt
+  model_savepath: markuplm_rebutall_num_contract-58-50pct.pt
   early_stop_patience: 10
 
 ablation:
